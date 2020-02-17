@@ -9,7 +9,7 @@ from datetime import datetime
 business_date = datetime.strftime(datetime.now(), "%Y-%m-%d")
 
 # 创建数据库连接
-db = pymysql.connect("127.0.0.1", "root", "123456", "spms")
+db = pymysql.connect("127.0.0.1", "root", "123456", "spms2")
 
 # 使用 cursor() 方法创建一个游标对象 cursor
 cursor = db.cursor()
