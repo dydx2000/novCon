@@ -318,28 +318,28 @@
 <div class="content">
     <div class="todaydata">
         <span class="today-title">中国疫情</span>
-         <span class="today-time">数据更新至 2020.02.17 08:39(北京时间)</span>
+         <span class="today-time">数据更新至 2020.02.18 10:56(北京时间)</span>
     </div>
     <div class="recentNumber">
         <div class="icbar confirm">
-            <div class="number">70586</div>
+            <div class="number">72528</div>
             <div class="text">确诊病例</div>
-                        <div class="add">前日<span>+2020</span></div>
+                        <div class="add">昨日<span>+1891</span></div>
                     </div>
         <div class="icbar suspect">
-            <div class="number">8228</div>
+            <div class="number">6242</div>
             <div class="text">疑似病例</div>
-                            <div class="add">前日<span>+1918</span></div>
+                            <div class="add">昨日<span>+1432</span></div>
                     </div>
         <div class="icbar cure">
-            <div class="number">10773</div>
+            <div class="number">12573</div>
             <div class="text">治愈人数</div>
-                            <div class="add">前日<span>+1662</span></div>
+                            <div class="add">昨日<span>+1713</span></div>
                     </div>
         <div class="icbar dead">
-            <div class="number">1770</div>
+            <div class="number">1870</div>
             <div class="text">死亡人数</div>
-                            <div class="add">前日<span>+143</span></div>
+                            <div class="add">昨日<span>+98</span></div>
                     </div>
     </div>
     <div id="main" style="width: 100%;height: 360px;margin: 0 auto;"></div>
@@ -358,139 +358,139 @@
                 <div class="main-block  main-block420000" onclick="change(420000)">
             <div class="prod">
                 <span class="area">湖北</span>
-                <span class="confirm">58182</span>
-                <span class="dead">1696</span>
-                <span class="cured">6639</span>
+                <span class="confirm">59989</span>
+                <span class="dead">1789</span>
+                <span class="cured">7862</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">武汉</span>
-                <span class="confirm">41152</span>
-                <span class="dead">1309</span>
-                <span class="cured">3458</span>
+                <span class="confirm">42752</span>
+                <span class="dead">1381</span>
+                <span class="cured">4219</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">孝感</span>
-                <span class="confirm">3279</span>
-                <span class="dead">70</span>
-                <span class="cured">449</span>
+                <span class="confirm">3320</span>
+                <span class="dead">75</span>
+                <span class="cured">523</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">黄冈</span>
-                <span class="confirm">2831</span>
-                <span class="dead">78</span>
-                <span class="cured">838</span>
+                <span class="confirm">2828</span>
+                <span class="dead">84</span>
+                <span class="cured">941</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">荆州</span>
-                <span class="confirm">1501</span>
-                <span class="dead">37</span>
-                <span class="cured">305</span>
+                <span class="confirm">1537</span>
+                <span class="dead">38</span>
+                <span class="cured">339</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">随州</span>
-                <span class="confirm">1267</span>
-                <span class="dead">24</span>
-                <span class="cured">114</span>
+                <span class="confirm">1278</span>
+                <span class="dead">25</span>
+                <span class="cured">198</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">鄂州</span>
-                <span class="confirm">1274</span>
-                <span class="dead">35</span>
-                <span class="cured">139</span>
+                <span class="confirm">1339</span>
+                <span class="dead">36</span>
+                <span class="cured">265</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">襄阳</span>
-                <span class="confirm">1155</span>
-                <span class="dead">20</span>
-                <span class="cured">177</span>
+                <span class="confirm">1163</span>
+                <span class="dead">21</span>
+                <span class="cured">182</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">黄石</span>
-                <span class="confirm">983</span>
-                <span class="dead">15</span>
-                <span class="cured">130</span>
-            </div>
-                        <div class="prod-city-block prod-city-block420000 close">
-                <span class="city-area">宜昌</span>
-                <span class="confirm">895</span>
-                <span class="dead">24</span>
-                <span class="cured">92</span>
+                <span class="confirm">985</span>
+                <span class="dead">20</span>
+                <span class="cured">215</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">荆门</span>
-                <span class="confirm">915</span>
+                <span class="confirm">900</span>
                 <span class="dead">33</span>
-                <span class="cured">128</span>
+                <span class="cured">143</span>
+            </div>
+                        <div class="prod-city-block prod-city-block420000 close">
+                <span class="city-area">宜昌</span>
+                <span class="confirm">904</span>
+                <span class="dead">24</span>
+                <span class="cured">186</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">咸宁</span>
-                <span class="confirm">861</span>
-                <span class="dead">10</span>
-                <span class="cured">251</span>
-            </div>
-                        <div class="prod-city-block prod-city-block420000 close">
-                <span class="city-area">十堰</span>
-                <span class="confirm">612</span>
-                <span class="dead">2</span>
-                <span class="cured">37</span>
-            </div>
-                        <div class="prod-city-block prod-city-block420000 close">
-                <span class="city-area">仙桃</span>
-                <span class="confirm">531</span>
-                <span class="dead">19</span>
-                <span class="cured">134</span>
-            </div>
-                        <div class="prod-city-block prod-city-block420000 close">
-                <span class="city-area">天门</span>
-                <span class="confirm">485</span>
+                <span class="confirm">868</span>
                 <span class="dead">10</span>
                 <span class="cured">204</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
-                <span class="city-area">潜江</span>
-                <span class="confirm">182</span>
-                <span class="dead">6</span>
-                <span class="cured">18</span>
+                <span class="city-area">十堰</span>
+                <span class="confirm">626</span>
+                <span class="dead">2</span>
+                <span class="cured">144</span>
+            </div>
+                        <div class="prod-city-block prod-city-block420000 close">
+                <span class="city-area">天门</span>
+                <span class="confirm">500</span>
+                <span class="dead">11</span>
+                <span class="cured">55</span>
+            </div>
+                        <div class="prod-city-block prod-city-block420000 close">
+                <span class="city-area">仙桃</span>
+                <span class="confirm">544</span>
+                <span class="dead">19</span>
+                <span class="cured">121</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">恩施州</span>
-                <span class="confirm">249</span>
+                <span class="confirm">250</span>
                 <span class="dead">4</span>
-                <span class="cured">157</span>
+                <span class="cured">90</span>
+            </div>
+                        <div class="prod-city-block prod-city-block420000 close">
+                <span class="city-area">潜江</span>
+                <span class="confirm">185</span>
+                <span class="dead">6</span>
+                <span class="cured">27</span>
             </div>
                         <div class="prod-city-block prod-city-block420000 close">
                 <span class="city-area">神农架林区</span>
                 <span class="confirm">10</span>
                 <span class="dead">0</span>
-                <span class="cured">8</span>
+                <span class="cured">10</span>
             </div>
                     </div>
                 <div class="main-block  main-block440000" onclick="change(440000)">
             <div class="prod">
                 <span class="area">广东</span>
-                <span class="confirm">1316</span>
-                <span class="dead">2</span>
-                <span class="cured">465</span>
+                <span class="confirm">1328</span>
+                <span class="dead">4</span>
+                <span class="cured">533</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">深圳</span>
-                <span class="confirm">414</span>
-                <span class="dead">0</span>
-                <span class="cured">131</span>
+                <span class="confirm">416</span>
+                <span class="dead">2</span>
+                <span class="cured">152</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">广州</span>
-                <span class="confirm">338</span>
+                <span class="confirm">339</span>
                 <span class="dead">0</span>
-                <span class="cured">121</span>
+                <span class="cured">142</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">东莞</span>
-                <span class="confirm">89</span>
+                <span class="confirm">91</span>
                 <span class="dead">1</span>
-                <span class="cured">12</span>
+                <span class="cured">19</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">佛山</span>
@@ -500,19 +500,19 @@
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">珠海</span>
-                <span class="confirm">96</span>
+                <span class="confirm">98</span>
                 <span class="dead">0</span>
-                <span class="cured">37</span>
-            </div>
-                        <div class="prod-city-block prod-city-block440000 close">
-                <span class="city-area">惠州</span>
-                <span class="confirm">58</span>
-                <span class="dead">0</span>
-                <span class="cured">26</span>
+                <span class="cured">43</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">中山</span>
-                <span class="confirm">65</span>
+                <span class="confirm">66</span>
+                <span class="dead">0</span>
+                <span class="cured">39</span>
+            </div>
+                        <div class="prod-city-block prod-city-block440000 close">
+                <span class="city-area">惠州</span>
+                <span class="confirm">59</span>
                 <span class="dead">0</span>
                 <span class="cured">34</span>
             </div>
@@ -520,13 +520,13 @@
                 <span class="city-area">江门</span>
                 <span class="confirm">23</span>
                 <span class="dead">0</span>
-                <span class="cured">3</span>
+                <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">汕头</span>
                 <span class="confirm">25</span>
                 <span class="dead">0</span>
-                <span class="cured">13</span>
+                <span class="cured">14</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">湛江</span>
@@ -536,27 +536,21 @@
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">茂名</span>
-                <span class="confirm">13</span>
+                <span class="confirm">14</span>
                 <span class="dead">0</span>
                 <span class="cured">3</span>
+            </div>
+                        <div class="prod-city-block prod-city-block440000 close">
+                <span class="city-area">肇庆</span>
+                <span class="confirm">18</span>
+                <span class="dead">1</span>
+                <span class="cured">8</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">梅州</span>
                 <span class="confirm">16</span>
                 <span class="dead">0</span>
-                <span class="cured">7</span>
-            </div>
-                        <div class="prod-city-block prod-city-block440000 close">
-                <span class="city-area">肇庆</span>
-                <span class="confirm">17</span>
-                <span class="dead">1</span>
                 <span class="cured">8</span>
-            </div>
-                        <div class="prod-city-block prod-city-block440000 close">
-                <span class="city-area">阳江</span>
-                <span class="confirm">13</span>
-                <span class="dead">0</span>
-                <span class="cured">7</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">韶关</span>
@@ -565,10 +559,10 @@
                 <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
-                <span class="city-area">清远</span>
-                <span class="confirm">12</span>
+                <span class="city-area">阳江</span>
+                <span class="confirm">13</span>
                 <span class="dead">0</span>
-                <span class="cured">7</span>
+                <span class="cured">9</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">揭阳</span>
@@ -577,97 +571,97 @@
                 <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
+                <span class="city-area">清远</span>
+                <span class="confirm">12</span>
+                <span class="dead">0</span>
+                <span class="cured">9</span>
+            </div>
+                        <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">汕尾</span>
                 <span class="confirm">5</span>
                 <span class="dead">0</span>
-                <span class="cured">1</span>
+                <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">潮州</span>
                 <span class="confirm">5</span>
                 <span class="dead">0</span>
-                <span class="cured">1</span>
+                <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block440000 close">
                 <span class="city-area">河源</span>
-                <span class="confirm">3</span>
+                <span class="confirm">4</span>
                 <span class="dead">0</span>
                 <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block440000 close">
-                <span class="city-area">待明确地区</span>
-                <span class="confirm">0</span>
-                <span class="dead">0</span>
-                <span class="cured">11</span>
             </div>
                     </div>
                 <div class="main-block  main-block410000" onclick="change(410000)">
             <div class="prod">
                 <span class="area">河南</span>
-                <span class="confirm">1246</span>
-                <span class="dead">16</span>
-                <span class="cured">440</span>
+                <span class="confirm">1257</span>
+                <span class="dead">19</span>
+                <span class="cured">513</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">信阳</span>
-                <span class="confirm">262</span>
+                <span class="confirm">266</span>
                 <span class="dead">2</span>
-                <span class="cured">74</span>
+                <span class="cured">84</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">南阳</span>
-                <span class="confirm">154</span>
+                <span class="confirm">155</span>
                 <span class="dead">2</span>
-                <span class="cured">57</span>
+                <span class="cured">65</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">郑州</span>
-                <span class="confirm">151</span>
+                <span class="confirm">154</span>
                 <span class="dead">0</span>
-                <span class="cured">72</span>
+                <span class="cured">76</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">驻马店</span>
-                <span class="confirm">138</span>
+                <span class="confirm">139</span>
                 <span class="dead">0</span>
-                <span class="cured">65</span>
+                <span class="cured">75</span>
+            </div>
+                        <div class="prod-city-block prod-city-block410000 close">
+                <span class="city-area">周口</span>
+                <span class="confirm">76</span>
+                <span class="dead">0</span>
+                <span class="cured">32</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">商丘</span>
                 <span class="confirm">91</span>
-                <span class="dead">2</span>
-                <span class="cured">30</span>
-            </div>
-                        <div class="prod-city-block prod-city-block410000 close">
-                <span class="city-area">周口</span>
-                <span class="confirm">75</span>
-                <span class="dead">0</span>
-                <span class="cured">29</span>
+                <span class="dead">3</span>
+                <span class="cured">46</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">新乡</span>
                 <span class="confirm">57</span>
                 <span class="dead">2</span>
-                <span class="cured">16</span>
+                <span class="cured">21</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">平顶山</span>
                 <span class="confirm">58</span>
                 <span class="dead">1</span>
-                <span class="cured">20</span>
+                <span class="cured">27</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">安阳</span>
-                <span class="confirm">51</span>
+                <span class="confirm">52</span>
                 <span class="dead">0</span>
-                <span class="cured">20</span>
+                <span class="cured">24</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">许昌</span>
                 <span class="confirm">38</span>
                 <span class="dead">0</span>
-                <span class="cured">9</span>
+                <span class="cured">11</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">焦作</span>
@@ -691,19 +685,19 @@
                 <span class="city-area">开封</span>
                 <span class="confirm">26</span>
                 <span class="dead">0</span>
-                <span class="cured">7</span>
-            </div>
-                        <div class="prod-city-block prod-city-block410000 close">
-                <span class="city-area">濮阳</span>
-                <span class="confirm">17</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
+                <span class="cured">9</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">鹤壁</span>
                 <span class="confirm">19</span>
                 <span class="dead">0</span>
                 <span class="cured">5</span>
+            </div>
+                        <div class="prod-city-block prod-city-block410000 close">
+                <span class="city-area">濮阳</span>
+                <span class="confirm">17</span>
+                <span class="dead">0</span>
+                <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">济源</span>
@@ -720,110 +714,35 @@
                         <div class="prod-city-block prod-city-block410000 close">
                 <span class="city-area">待明确地区</span>
                 <span class="confirm">0</span>
-                <span class="dead">6</span>
+                <span class="dead">8</span>
                 <span class="cured">0</span>
-            </div>
-                    </div>
-                <div class="main-block  main-block330000" onclick="change(330000)">
-            <div class="prod">
-                <span class="area">浙江</span>
-                <span class="confirm">1167</span>
-                <span class="dead">0</span>
-                <span class="cured">456</span>
-            </div>
-            <div class="clearfix"></div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">温州</span>
-                <span class="confirm">502</span>
-                <span class="dead">0</span>
-                <span class="cured">182</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">宁波</span>
-                <span class="confirm">155</span>
-                <span class="dead">0</span>
-                <span class="cured">55</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">杭州</span>
-                <span class="confirm">166</span>
-                <span class="dead">0</span>
-                <span class="cured">75</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">台州</span>
-                <span class="confirm">146</span>
-                <span class="dead">0</span>
-                <span class="cured">63</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">嘉兴</span>
-                <span class="confirm">43</span>
-                <span class="dead">0</span>
-                <span class="cured">11</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">金华</span>
-                <span class="confirm">55</span>
-                <span class="dead">0</span>
-                <span class="cured">24</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">绍兴</span>
-                <span class="confirm">42</span>
-                <span class="dead">0</span>
-                <span class="cured">17</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">衢州</span>
-                <span class="confirm">21</span>
-                <span class="dead">0</span>
-                <span class="cured">9</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">丽水</span>
-                <span class="confirm">17</span>
-                <span class="dead">0</span>
-                <span class="cured">11</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">湖州</span>
-                <span class="confirm">10</span>
-                <span class="dead">0</span>
-                <span class="cured">4</span>
-            </div>
-                        <div class="prod-city-block prod-city-block330000 close">
-                <span class="city-area">舟山</span>
-                <span class="confirm">10</span>
-                <span class="dead">0</span>
-                <span class="cured">5</span>
             </div>
                     </div>
                 <div class="main-block  main-block340000" onclick="change(340000)">
             <div class="prod">
                 <span class="area">安徽</span>
-                <span class="confirm">962</span>
+                <span class="confirm">982</span>
                 <span class="dead">6</span>
-                <span class="cured">255</span>
+                <span class="cured">293</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">蚌埠</span>
-                <span class="confirm">157</span>
+                <span class="confirm">158</span>
                 <span class="dead">5</span>
-                <span class="cured">9</span>
+                <span class="cured">19</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">合肥</span>
-                <span class="confirm">169</span>
+                <span class="confirm">173</span>
                 <span class="dead">1</span>
-                <span class="cured">43</span>
+                <span class="cured">49</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">阜阳</span>
-                <span class="confirm">152</span>
+                <span class="confirm">154</span>
                 <span class="dead">0</span>
-                <span class="cured">37</span>
+                <span class="cured">41</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">亳州</span>
@@ -832,52 +751,52 @@
                 <span class="cured">35</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
-                <span class="city-area">六安</span>
-                <span class="confirm">65</span>
-                <span class="dead">0</span>
-                <span class="cured">15</span>
-            </div>
-                        <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">安庆</span>
-                <span class="confirm">82</span>
+                <span class="confirm">83</span>
                 <span class="dead">0</span>
                 <span class="cured">34</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
-                <span class="city-area">宿州</span>
-                <span class="confirm">39</span>
+                <span class="city-area">六安</span>
+                <span class="confirm">68</span>
                 <span class="dead">0</span>
-                <span class="cured">13</span>
+                <span class="cured">21</span>
+            </div>
+                        <div class="prod-city-block prod-city-block340000 close">
+                <span class="city-area">宿州</span>
+                <span class="confirm">41</span>
+                <span class="dead">0</span>
+                <span class="cured">16</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">马鞍山</span>
                 <span class="confirm">36</span>
                 <span class="dead">0</span>
-                <span class="cured">10</span>
+                <span class="cured">12</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">芜湖</span>
-                <span class="confirm">31</span>
+                <span class="confirm">33</span>
                 <span class="dead">0</span>
                 <span class="cured">13</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
-                <span class="city-area">铜陵</span>
-                <span class="confirm">28</span>
+                <span class="city-area">淮南</span>
+                <span class="confirm">27</span>
                 <span class="dead">0</span>
-                <span class="cured">10</span>
+                <span class="cured">8</span>
+            </div>
+                        <div class="prod-city-block prod-city-block340000 close">
+                <span class="city-area">铜陵</span>
+                <span class="confirm">29</span>
+                <span class="dead">0</span>
+                <span class="cured">11</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">淮北</span>
-                <span class="confirm">26</span>
+                <span class="confirm">27</span>
                 <span class="dead">0</span>
-                <span class="cured">10</span>
-            </div>
-                        <div class="prod-city-block prod-city-block340000 close">
-                <span class="city-area">淮南</span>
-                <span class="confirm">24</span>
-                <span class="dead">0</span>
-                <span class="cured">8</span>
+                <span class="cured">11</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">池州</span>
@@ -886,16 +805,16 @@
                 <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
-                <span class="city-area">黄山</span>
-                <span class="confirm">9</span>
-                <span class="dead">0</span>
-                <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">滁州</span>
                 <span class="confirm">13</span>
                 <span class="dead">0</span>
                 <span class="cured">7</span>
+            </div>
+                        <div class="prod-city-block prod-city-block340000 close">
+                <span class="city-area">黄山</span>
+                <span class="confirm">9</span>
+                <span class="dead">0</span>
+                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block340000 close">
                 <span class="city-area">宣城</span>
@@ -903,62 +822,143 @@
                 <span class="dead">0</span>
                 <span class="cured">4</span>
             </div>
+                        <div class="prod-city-block prod-city-block340000 close">
+                <span class="city-area">待明确地区</span>
+                <span class="confirm">0</span>
+                <span class="dead">0</span>
+                <span class="cured">3</span>
+            </div>
+                    </div>
+                <div class="main-block  main-block330000" onclick="change(330000)">
+            <div class="prod">
+                <span class="area">浙江</span>
+                <span class="confirm">1172</span>
+                <span class="dead">0</span>
+                <span class="cured">514</span>
+            </div>
+            <div class="clearfix"></div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">温州</span>
+                <span class="confirm">504</span>
+                <span class="dead">0</span>
+                <span class="cured">194</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">宁波</span>
+                <span class="confirm">156</span>
+                <span class="dead">0</span>
+                <span class="cured">68</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">台州</span>
+                <span class="confirm">146</span>
+                <span class="dead">0</span>
+                <span class="cured">64</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">杭州</span>
+                <span class="confirm">168</span>
+                <span class="dead">0</span>
+                <span class="cured">94</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">嘉兴</span>
+                <span class="confirm">43</span>
+                <span class="dead">0</span>
+                <span class="cured">14</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">金华</span>
+                <span class="confirm">55</span>
+                <span class="dead">0</span>
+                <span class="cured">30</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">绍兴</span>
+                <span class="confirm">42</span>
+                <span class="dead">0</span>
+                <span class="cured">19</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">衢州</span>
+                <span class="confirm">21</span>
+                <span class="dead">0</span>
+                <span class="cured">10</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">丽水</span>
+                <span class="confirm">17</span>
+                <span class="dead">0</span>
+                <span class="cured">11</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">舟山</span>
+                <span class="confirm">10</span>
+                <span class="dead">0</span>
+                <span class="cured">5</span>
+            </div>
+                        <div class="prod-city-block prod-city-block330000 close">
+                <span class="city-area">湖州</span>
+                <span class="confirm">10</span>
+                <span class="dead">0</span>
+                <span class="cured">5</span>
+            </div>
                     </div>
                 <div class="main-block  main-block360000" onclick="change(360000)">
             <div class="prod">
                 <span class="area">江西</span>
-                <span class="confirm">925</span>
+                <span class="confirm">933</span>
                 <span class="dead">1</span>
-                <span class="cured">240</span>
+                <span class="cured">310</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">南昌</span>
-                <span class="confirm">227</span>
+                <span class="confirm">229</span>
                 <span class="dead">0</span>
-                <span class="cured">75</span>
+                <span class="cured">95</span>
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">九江</span>
-                <span class="confirm">117</span>
+                <span class="confirm">118</span>
                 <span class="dead">0</span>
-                <span class="cured">22</span>
-            </div>
-                        <div class="prod-city-block prod-city-block360000 close">
-                <span class="city-area">新余</span>
-                <span class="confirm">129</span>
-                <span class="dead">0</span>
-                <span class="cured">37</span>
+                <span class="cured">30</span>
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">上饶</span>
                 <span class="confirm">123</span>
                 <span class="dead">0</span>
-                <span class="cured">31</span>
+                <span class="cured">39</span>
+            </div>
+                        <div class="prod-city-block prod-city-block360000 close">
+                <span class="city-area">新余</span>
+                <span class="confirm">129</span>
+                <span class="dead">0</span>
+                <span class="cured">46</span>
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">宜春</span>
-                <span class="confirm">104</span>
+                <span class="confirm">106</span>
                 <span class="dead">0</span>
-                <span class="cured">20</span>
+                <span class="cured">30</span>
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">赣州</span>
                 <span class="confirm">76</span>
                 <span class="dead">1</span>
-                <span class="cured">17</span>
+                <span class="cured">20</span>
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">抚州</span>
                 <span class="confirm">72</span>
                 <span class="dead">0</span>
-                <span class="cured">21</span>
+                <span class="cured">28</span>
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">萍乡</span>
-                <span class="confirm">32</span>
+                <span class="confirm">33</span>
                 <span class="dead">0</span>
-                <span class="cured">4</span>
+                <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">鹰潭</span>
@@ -968,15 +968,15 @@
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">吉安</span>
-                <span class="confirm">21</span>
+                <span class="confirm">22</span>
                 <span class="dead">0</span>
-                <span class="cured">9</span>
+                <span class="cured">10</span>
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">景德镇</span>
-                <span class="confirm">5</span>
+                <span class="confirm">6</span>
                 <span class="dead">0</span>
-                <span class="cured">1</span>
+                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block360000 close">
                 <span class="city-area">赣江新区</span>
@@ -988,82 +988,82 @@
                 <div class="main-block close main-hidden-block main-block430000" onclick="change(430000)">
             <div class="prod">
                 <span class="area">湖南</span>
-                <span class="confirm">1004</span>
-                <span class="dead">3</span>
-                <span class="cured">464</span>
+                <span class="confirm">1007</span>
+                <span class="dead">4</span>
+                <span class="cured">501</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">长沙</span>
                 <span class="confirm">241</span>
-                <span class="dead">1</span>
-                <span class="cured">89</span>
+                <span class="dead">2</span>
+                <span class="cured">92</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">岳阳</span>
-                <span class="confirm">154</span>
+                <span class="confirm">155</span>
                 <span class="dead">1</span>
-                <span class="cured">54</span>
+                <span class="cured">63</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">常德</span>
                 <span class="confirm">79</span>
                 <span class="dead">0</span>
-                <span class="cured">31</span>
+                <span class="cured">34</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">株洲</span>
                 <span class="confirm">78</span>
                 <span class="dead">0</span>
-                <span class="cured">33</span>
+                <span class="cured">35</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">娄底</span>
-                <span class="confirm">75</span>
+                <span class="confirm">76</span>
                 <span class="dead">0</span>
-                <span class="cured">34</span>
+                <span class="cured">35</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">邵阳</span>
                 <span class="confirm">101</span>
                 <span class="dead">1</span>
-                <span class="cured">64</span>
+                <span class="cured">67</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">益阳</span>
                 <span class="confirm">59</span>
                 <span class="dead">0</span>
-                <span class="cured">27</span>
+                <span class="cured">30</span>
+            </div>
+                        <div class="prod-city-block prod-city-block430000 close">
+                <span class="city-area">衡阳</span>
+                <span class="confirm">48</span>
+                <span class="dead">0</span>
+                <span class="cured">28</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">湘潭</span>
                 <span class="confirm">35</span>
                 <span class="dead">0</span>
-                <span class="cured">14</span>
-            </div>
-                        <div class="prod-city-block prod-city-block430000 close">
-                <span class="city-area">衡阳</span>
-                <span class="confirm">47</span>
-                <span class="dead">0</span>
-                <span class="cured">28</span>
-            </div>
-                        <div class="prod-city-block prod-city-block430000 close">
-                <span class="city-area">郴州</span>
-                <span class="confirm">39</span>
-                <span class="dead">0</span>
-                <span class="cured">22</span>
+                <span class="cured">16</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">永州</span>
                 <span class="confirm">43</span>
                 <span class="dead">0</span>
-                <span class="cured">28</span>
+                <span class="cured">30</span>
+            </div>
+                        <div class="prod-city-block prod-city-block430000 close">
+                <span class="city-area">郴州</span>
+                <span class="confirm">39</span>
+                <span class="dead">0</span>
+                <span class="cured">26</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">怀化</span>
                 <span class="confirm">40</span>
                 <span class="dead">0</span>
-                <span class="cured">30</span>
+                <span class="cured">34</span>
             </div>
                         <div class="prod-city-block prod-city-block430000 close">
                 <span class="city-area">湘西自治州</span>
@@ -1075,115 +1075,28 @@
                 <span class="city-area">张家界</span>
                 <span class="confirm">5</span>
                 <span class="dead">0</span>
-                <span class="cured">4</span>
-            </div>
-                    </div>
-                <div class="main-block close main-hidden-block main-block320000" onclick="change(320000)">
-            <div class="prod">
-                <span class="area">江苏</span>
-                <span class="confirm">617</span>
-                <span class="dead">0</span>
-                <span class="cured">218</span>
-            </div>
-            <div class="clearfix"></div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">南京</span>
-                <span class="confirm">92</span>
-                <span class="dead">0</span>
-                <span class="cured">32</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">苏州</span>
-                <span class="confirm">86</span>
-                <span class="dead">0</span>
-                <span class="cured">26</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">徐州</span>
-                <span class="confirm">78</span>
-                <span class="dead">0</span>
-                <span class="cured">28</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">淮安</span>
-                <span class="confirm">63</span>
-                <span class="dead">0</span>
-                <span class="cured">21</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">连云港</span>
-                <span class="confirm">48</span>
-                <span class="dead">0</span>
-                <span class="cured">12</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">无锡</span>
-                <span class="confirm">53</span>
-                <span class="dead">0</span>
-                <span class="cured">18</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">常州</span>
-                <span class="confirm">46</span>
-                <span class="dead">0</span>
-                <span class="cured">21</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">南通</span>
-                <span class="confirm">40</span>
-                <span class="dead">0</span>
-                <span class="cured">15</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">泰州</span>
-                <span class="confirm">37</span>
-                <span class="dead">0</span>
-                <span class="cured">16</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">盐城</span>
-                <span class="confirm">27</span>
-                <span class="dead">0</span>
-                <span class="cured">10</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">扬州</span>
-                <span class="confirm">22</span>
-                <span class="dead">0</span>
-                <span class="cured">8</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">镇江</span>
-                <span class="confirm">12</span>
-                <span class="dead">0</span>
-                <span class="cured">4</span>
-            </div>
-                        <div class="prod-city-block prod-city-block320000 close">
-                <span class="city-area">宿迁</span>
-                <span class="confirm">13</span>
-                <span class="dead">0</span>
-                <span class="cured">7</span>
+                <span class="cured">5</span>
             </div>
                     </div>
                 <div class="main-block close main-hidden-block main-block230000" onclick="change(230000)">
             <div class="prod">
                 <span class="area">黑龙江</span>
-                <span class="confirm">457</span>
+                <span class="confirm">464</span>
                 <span class="dead">11</span>
-                <span class="cured">80</span>
+                <span class="cured">85</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block230000 close">
                 <span class="city-area">哈尔滨</span>
-                <span class="confirm">188</span>
+                <span class="confirm">190</span>
                 <span class="dead">3</span>
                 <span class="cured">32</span>
             </div>
                         <div class="prod-city-block prod-city-block230000 close">
                 <span class="city-area">双鸭山</span>
-                <span class="confirm">50</span>
+                <span class="confirm">52</span>
                 <span class="dead">2</span>
-                <span class="cured">1</span>
+                <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block230000 close">
                 <span class="city-area">鸡西</span>
@@ -1193,7 +1106,7 @@
             </div>
                         <div class="prod-city-block prod-city-block230000 close">
                 <span class="city-area">齐齐哈尔</span>
-                <span class="confirm">42</span>
+                <span class="confirm">43</span>
                 <span class="dead">1</span>
                 <span class="cured">10</span>
             </div>
@@ -1201,13 +1114,13 @@
                 <span class="city-area">绥化</span>
                 <span class="confirm">46</span>
                 <span class="dead">4</span>
-                <span class="cured">13</span>
+                <span class="cured">14</span>
             </div>
                         <div class="prod-city-block prod-city-block230000 close">
                 <span class="city-area">大庆</span>
                 <span class="confirm">20</span>
                 <span class="dead">1</span>
-                <span class="cured">3</span>
+                <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block230000 close">
                 <span class="city-area">黑河</span>
@@ -1217,13 +1130,13 @@
             </div>
                         <div class="prod-city-block prod-city-block230000 close">
                 <span class="city-area">七台河</span>
-                <span class="confirm">16</span>
+                <span class="confirm">17</span>
                 <span class="dead">0</span>
                 <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block230000 close">
                 <span class="city-area">牡丹江</span>
-                <span class="confirm">12</span>
+                <span class="confirm">13</span>
                 <span class="dead">0</span>
                 <span class="cured">1</span>
             </div>
@@ -1252,25 +1165,106 @@
                 <span class="cured">0</span>
             </div>
                     </div>
+                <div class="main-block close main-hidden-block main-block320000" onclick="change(320000)">
+            <div class="prod">
+                <span class="area">江苏</span>
+                <span class="confirm">629</span>
+                <span class="dead">0</span>
+                <span class="cured">263</span>
+            </div>
+            <div class="clearfix"></div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">南京</span>
+                <span class="confirm">92</span>
+                <span class="dead">0</span>
+                <span class="cured">32</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">苏州</span>
+                <span class="confirm">87</span>
+                <span class="dead">0</span>
+                <span class="cured">31</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">淮安</span>
+                <span class="confirm">66</span>
+                <span class="dead">0</span>
+                <span class="cured">28</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">徐州</span>
+                <span class="confirm">79</span>
+                <span class="dead">0</span>
+                <span class="cured">42</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">无锡</span>
+                <span class="confirm">55</span>
+                <span class="dead">0</span>
+                <span class="cured">21</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">连云港</span>
+                <span class="confirm">48</span>
+                <span class="dead">0</span>
+                <span class="cured">14</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">常州</span>
+                <span class="confirm">50</span>
+                <span class="dead">0</span>
+                <span class="cured">20</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">南通</span>
+                <span class="confirm">40</span>
+                <span class="dead">0</span>
+                <span class="cured">19</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">泰州</span>
+                <span class="confirm">37</span>
+                <span class="dead">0</span>
+                <span class="cured">21</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">扬州</span>
+                <span class="confirm">23</span>
+                <span class="dead">0</span>
+                <span class="cured">9</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">盐城</span>
+                <span class="confirm">27</span>
+                <span class="dead">0</span>
+                <span class="cured">14</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">镇江</span>
+                <span class="confirm">12</span>
+                <span class="dead">0</span>
+                <span class="cured">5</span>
+            </div>
+                        <div class="prod-city-block prod-city-block320000 close">
+                <span class="city-area">宿迁</span>
+                <span class="confirm">13</span>
+                <span class="dead">0</span>
+                <span class="cured">7</span>
+            </div>
+                    </div>
                 <div class="main-block close main-hidden-block main-block370000" onclick="change(370000)">
             <div class="prod">
                 <span class="area">山东</span>
-                <span class="confirm">541</span>
+                <span class="confirm">543</span>
                 <span class="dead">2</span>
-                <span class="cured">175</span>
+                <span class="cured">193</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">济南</span>
                 <span class="confirm">47</span>
                 <span class="dead">0</span>
-                <span class="cured">11</span>
-            </div>
-                        <div class="prod-city-block prod-city-block370000 close">
-                <span class="city-area">济宁</span>
-                <span class="confirm">52</span>
-                <span class="dead">0</span>
-                <span class="cured">18</span>
+                <span class="cured">13</span>
             </div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">烟台</span>
@@ -1282,11 +1276,17 @@
                 <span class="city-area">潍坊</span>
                 <span class="confirm">44</span>
                 <span class="dead">0</span>
-                <span class="cured">10</span>
+                <span class="cured">11</span>
+            </div>
+                        <div class="prod-city-block prod-city-block370000 close">
+                <span class="city-area">济宁</span>
+                <span class="confirm">52</span>
+                <span class="dead">0</span>
+                <span class="cured">20</span>
             </div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">青岛</span>
-                <span class="confirm">57</span>
+                <span class="confirm">58</span>
                 <span class="dead">1</span>
                 <span class="cured">26</span>
             </div>
@@ -1300,49 +1300,43 @@
                 <span class="city-area">德州</span>
                 <span class="confirm">37</span>
                 <span class="dead">1</span>
-                <span class="cured">7</span>
+                <span class="cured">9</span>
             </div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">聊城</span>
                 <span class="confirm">38</span>
                 <span class="dead">0</span>
-                <span class="cured">11</span>
+                <span class="cured">12</span>
             </div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">泰安</span>
                 <span class="confirm">32</span>
                 <span class="dead">0</span>
-                <span class="cured">5</span>
+                <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">淄博</span>
                 <span class="confirm">29</span>
                 <span class="dead">0</span>
-                <span class="cured">4</span>
+                <span class="cured">5</span>
             </div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">枣庄</span>
                 <span class="confirm">24</span>
                 <span class="dead">0</span>
-                <span class="cured">4</span>
+                <span class="cured">7</span>
             </div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">临沂</span>
-                <span class="confirm">47</span>
+                <span class="confirm">48</span>
                 <span class="dead">0</span>
-                <span class="cured">32</span>
+                <span class="cured">35</span>
             </div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">日照</span>
                 <span class="confirm">16</span>
                 <span class="dead">0</span>
-                <span class="cured">3</span>
-            </div>
-                        <div class="prod-city-block prod-city-block370000 close">
-                <span class="city-area">滨州</span>
-                <span class="confirm">15</span>
-                <span class="dead">0</span>
-                <span class="cured">9</span>
+                <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block370000 close">
                 <span class="city-area">菏泽</span>
@@ -1350,38 +1344,44 @@
                 <span class="dead">0</span>
                 <span class="cured">13</span>
             </div>
+                        <div class="prod-city-block prod-city-block370000 close">
+                <span class="city-area">滨州</span>
+                <span class="confirm">15</span>
+                <span class="dead">0</span>
+                <span class="cured">10</span>
+            </div>
                     </div>
                 <div class="main-block close main-hidden-block main-block510000" onclick="change(510000)">
             <div class="prod">
                 <span class="area">四川</span>
-                <span class="confirm">495</span>
+                <span class="confirm">508</span>
                 <span class="dead">3</span>
-                <span class="cured">136</span>
+                <span class="cured">163</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">成都</span>
                 <span class="confirm">140</span>
                 <span class="dead">1</span>
-                <span class="cured">53</span>
+                <span class="cured">56</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">甘孜州</span>
-                <span class="confirm">57</span>
-                <span class="dead">0</span>
-                <span class="cured">3</span>
-            </div>
-                        <div class="prod-city-block prod-city-block510000 close">
-                <span class="city-area">达州</span>
-                <span class="confirm">38</span>
+                <span class="confirm">62</span>
                 <span class="dead">0</span>
                 <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
-                <span class="city-area">南充</span>
-                <span class="confirm">35</span>
+                <span class="city-area">达州</span>
+                <span class="confirm">39</span>
                 <span class="dead">0</span>
-                <span class="cured">9</span>
+                <span class="cured">8</span>
+            </div>
+                        <div class="prod-city-block prod-city-block510000 close">
+                <span class="city-area">南充</span>
+                <span class="confirm">38</span>
+                <span class="dead">0</span>
+                <span class="cured">12</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">巴中</span>
@@ -1393,22 +1393,10 @@
                 <span class="city-area">广安</span>
                 <span class="confirm">30</span>
                 <span class="dead">0</span>
-                <span class="cured">10</span>
+                <span class="cured">14</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">内江</span>
-                <span class="confirm">22</span>
-                <span class="dead">0</span>
-                <span class="cured">5</span>
-            </div>
-                        <div class="prod-city-block prod-city-block510000 close">
-                <span class="city-area">德阳</span>
-                <span class="confirm">17</span>
-                <span class="dead">0</span>
-                <span class="cured">0</span>
-            </div>
-                        <div class="prod-city-block prod-city-block510000 close">
-                <span class="city-area">绵阳</span>
                 <span class="confirm">22</span>
                 <span class="dead">0</span>
                 <span class="cured">6</span>
@@ -1420,10 +1408,22 @@
                 <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
+                <span class="city-area">德阳</span>
+                <span class="confirm">17</span>
+                <span class="dead">0</span>
+                <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block510000 close">
+                <span class="city-area">绵阳</span>
+                <span class="confirm">22</span>
+                <span class="dead">0</span>
+                <span class="cured">9</span>
+            </div>
+                        <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">遂宁</span>
                 <span class="confirm">17</span>
                 <span class="dead">0</span>
-                <span class="cured">4</span>
+                <span class="cured">9</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">凉山州</span>
@@ -1438,28 +1438,28 @@
                 <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
+                <span class="city-area">宜宾</span>
+                <span class="confirm">12</span>
+                <span class="dead">0</span>
+                <span class="cured">6</span>
+            </div>
+                        <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">眉山</span>
                 <span class="confirm">8</span>
                 <span class="dead">0</span>
                 <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
-                <span class="city-area">宜宾</span>
-                <span class="confirm">11</span>
+                <span class="city-area">攀枝花</span>
+                <span class="confirm">16</span>
                 <span class="dead">0</span>
-                <span class="cured">6</span>
+                <span class="cured">11</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">雅安</span>
                 <span class="confirm">7</span>
                 <span class="dead">0</span>
                 <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block510000 close">
-                <span class="city-area">攀枝花</span>
-                <span class="confirm">13</span>
-                <span class="dead">0</span>
-                <span class="cured">10</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">广元</span>
@@ -1483,7 +1483,7 @@
                 <span class="city-area">阿坝州</span>
                 <span class="confirm">1</span>
                 <span class="dead">0</span>
-                <span class="cured">0</span>
+                <span class="cured">1</span>
             </div>
                         <div class="prod-city-block prod-city-block510000 close">
                 <span class="city-area">待明确地区</span>
@@ -1495,34 +1495,34 @@
                 <div class="main-block close main-hidden-block main-block500000" onclick="change(500000)">
             <div class="prod">
                 <span class="area">重庆</span>
-                <span class="confirm">551</span>
+                <span class="confirm">553</span>
                 <span class="dead">5</span>
-                <span class="cured">207</span>
+                <span class="cured">225</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">万州区</span>
                 <span class="confirm">108</span>
                 <span class="dead">3</span>
-                <span class="cured">35</span>
+                <span class="cured">36</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">江北区</span>
                 <span class="confirm">28</span>
                 <span class="dead">0</span>
-                <span class="cured">3</span>
+                <span class="cured">5</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">合川区</span>
                 <span class="confirm">23</span>
                 <span class="dead">0</span>
-                <span class="cured">6</span>
+                <span class="cured">7</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">綦江区</span>
                 <span class="confirm">23</span>
                 <span class="dead">0</span>
-                <span class="cured">6</span>
+                <span class="cured">7</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">潼南区</span>
@@ -1555,40 +1555,40 @@
                 <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
-                <span class="city-area">九龙坡区</span>
-                <span class="confirm">20</span>
-                <span class="dead">1</span>
-                <span class="cured">8</span>
-            </div>
-                        <div class="prod-city-block prod-city-block500000 close">
-                <span class="city-area">大足区</span>
-                <span class="confirm">14</span>
-                <span class="dead">0</span>
-                <span class="cured">3</span>
-            </div>
-                        <div class="prod-city-block prod-city-block500000 close">
-                <span class="city-area">忠县</span>
-                <span class="confirm">20</span>
-                <span class="dead">0</span>
-                <span class="cured">10</span>
-            </div>
-                        <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">两江新区</span>
                 <span class="confirm">17</span>
                 <span class="dead">0</span>
                 <span class="cured">7</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
-                <span class="city-area">石柱县</span>
+                <span class="city-area">云阳县</span>
+                <span class="confirm">25</span>
+                <span class="dead">0</span>
+                <span class="cured">16</span>
+            </div>
+                        <div class="prod-city-block prod-city-block500000 close">
+                <span class="city-area">九龙坡区</span>
+                <span class="confirm">20</span>
+                <span class="dead">1</span>
+                <span class="cured">10</span>
+            </div>
+                        <div class="prod-city-block prod-city-block500000 close">
+                <span class="city-area">忠县</span>
+                <span class="confirm">20</span>
+                <span class="dead">0</span>
+                <span class="cured">11</span>
+            </div>
+                        <div class="prod-city-block prod-city-block500000 close">
+                <span class="city-area">渝北区</span>
+                <span class="confirm">16</span>
+                <span class="dead">0</span>
+                <span class="cured">7</span>
+            </div>
+                        <div class="prod-city-block prod-city-block500000 close">
+                <span class="city-area">大足区</span>
                 <span class="confirm">14</span>
                 <span class="dead">0</span>
                 <span class="cured">5</span>
-            </div>
-                        <div class="prod-city-block prod-city-block500000 close">
-                <span class="city-area">云阳县</span>
-                <span class="confirm">24</span>
-                <span class="dead">0</span>
-                <span class="cured">16</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">渝中区</span>
@@ -1597,8 +1597,8 @@
                 <span class="cured">12</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
-                <span class="city-area">渝北区</span>
-                <span class="confirm">15</span>
+                <span class="city-area">石柱县</span>
+                <span class="confirm">14</span>
                 <span class="dead">0</span>
                 <span class="cured">7</span>
             </div>
@@ -1627,34 +1627,34 @@
                 <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
-                <span class="city-area">荣昌区</span>
-                <span class="confirm">9</span>
-                <span class="dead">0</span>
-                <span class="cured">3</span>
-            </div>
-                        <div class="prod-city-block prod-city-block500000 close">
-                <span class="city-area">巫溪县</span>
-                <span class="confirm">13</span>
-                <span class="dead">0</span>
-                <span class="cured">8</span>
-            </div>
-                        <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">巫山县</span>
                 <span class="confirm">10</span>
                 <span class="dead">0</span>
                 <span class="cured">5</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
+                <span class="city-area">荣昌区</span>
+                <span class="confirm">9</span>
+                <span class="dead">0</span>
+                <span class="cured">4</span>
+            </div>
+                        <div class="prod-city-block prod-city-block500000 close">
+                <span class="city-area">巫溪县</span>
+                <span class="confirm">13</span>
+                <span class="dead">0</span>
+                <span class="cured">9</span>
+            </div>
+                        <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">巴南区</span>
                 <span class="confirm">6</span>
                 <span class="dead">0</span>
-                <span class="cured">1</span>
+                <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">璧山区</span>
                 <span class="confirm">9</span>
                 <span class="dead">0</span>
-                <span class="cured">5</span>
+                <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">永川区</span>
@@ -1675,22 +1675,22 @@
                 <span class="cured">5</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
+                <span class="city-area">彭水县</span>
+                <span class="confirm">2</span>
+                <span class="dead">0</span>
+                <span class="cured">0</span>
+            </div>
+                        <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">江津区</span>
                 <span class="confirm">4</span>
                 <span class="dead">0</span>
-                <span class="cured">2</span>
+                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">涪陵区</span>
                 <span class="confirm">3</span>
                 <span class="dead">0</span>
-                <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block500000 close">
-                <span class="city-area">彭水县</span>
-                <span class="confirm">2</span>
-                <span class="dead">0</span>
-                <span class="cured">0</span>
+                <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block500000 close">
                 <span class="city-area">酉阳县</span>
@@ -1738,9 +1738,9 @@
                 <div class="main-block close main-hidden-block main-block110000" onclick="change(110000)">
             <div class="prod">
                 <span class="area">北京</span>
-                <span class="confirm">380</span>
+                <span class="confirm">387</span>
                 <span class="dead">4</span>
-                <span class="cured">108</span>
+                <span class="cured">122</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block110000 close">
@@ -1757,9 +1757,15 @@
             </div>
                         <div class="prod-city-block prod-city-block110000 close">
                 <span class="city-area">西城区</span>
-                <span class="confirm">46</span>
+                <span class="confirm">47</span>
                 <span class="dead">0</span>
                 <span class="cured">0</span>
+            </div>
+                        <div class="prod-city-block prod-city-block110000 close">
+                <span class="city-area">丰台区</span>
+                <span class="confirm">40</span>
+                <span class="dead">0</span>
+                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block110000 close">
                 <span class="city-area">大兴区</span>
@@ -1768,14 +1774,8 @@
                 <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block110000 close">
-                <span class="city-area">丰台区</span>
-                <span class="confirm">39</span>
-                <span class="dead">0</span>
-                <span class="cured">3</span>
-            </div>
-                        <div class="prod-city-block prod-city-block110000 close">
                 <span class="city-area">昌平区</span>
-                <span class="confirm">25</span>
+                <span class="confirm">29</span>
                 <span class="dead">0</span>
                 <span class="cured">0</span>
             </div>
@@ -1792,16 +1792,16 @@
                 <span class="cured">1</span>
             </div>
                         <div class="prod-city-block prod-city-block110000 close">
+                <span class="city-area">房山区</span>
+                <span class="confirm">16</span>
+                <span class="dead">0</span>
+                <span class="cured">3</span>
+            </div>
+                        <div class="prod-city-block prod-city-block110000 close">
                 <span class="city-area">石景山区</span>
                 <span class="confirm">14</span>
                 <span class="dead">0</span>
                 <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block110000 close">
-                <span class="city-area">房山区</span>
-                <span class="confirm">15</span>
-                <span class="dead">0</span>
-                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block110000 close">
                 <span class="city-area">东城区</span>
@@ -1843,22 +1843,22 @@
                 <span class="city-area">待明确地区</span>
                 <span class="confirm">0</span>
                 <span class="dead">4</span>
-                <span class="cured">95</span>
+                <span class="cured">109</span>
             </div>
                     </div>
                 <div class="main-block close main-hidden-block main-block350000" onclick="change(350000)">
             <div class="prod">
                 <span class="area">福建</span>
-                <span class="confirm">290</span>
+                <span class="confirm">292</span>
                 <span class="dead">0</span>
-                <span class="cured">84</span>
+                <span class="cured">91</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block350000 close">
                 <span class="city-area">福州</span>
-                <span class="confirm">69</span>
+                <span class="confirm">71</span>
                 <span class="dead">0</span>
-                <span class="cured">23</span>
+                <span class="cured">26</span>
             </div>
                         <div class="prod-city-block prod-city-block350000 close">
                 <span class="city-area">莆田</span>
@@ -1876,7 +1876,7 @@
                 <span class="city-area">厦门</span>
                 <span class="confirm">35</span>
                 <span class="dead">0</span>
-                <span class="cured">6</span>
+                <span class="cured">9</span>
             </div>
                         <div class="prod-city-block prod-city-block350000 close">
                 <span class="city-area">宁德</span>
@@ -1885,16 +1885,16 @@
                 <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block350000 close">
-                <span class="city-area">漳州</span>
-                <span class="confirm">20</span>
-                <span class="dead">0</span>
-                <span class="cured">6</span>
-            </div>
-                        <div class="prod-city-block prod-city-block350000 close">
                 <span class="city-area">南平</span>
                 <span class="confirm">20</span>
                 <span class="dead">0</span>
                 <span class="cured">7</span>
+            </div>
+                        <div class="prod-city-block prod-city-block350000 close">
+                <span class="city-area">漳州</span>
+                <span class="confirm">20</span>
+                <span class="dead">0</span>
+                <span class="cured">8</span>
             </div>
                         <div class="prod-city-block prod-city-block350000 close">
                 <span class="city-area">三明</span>
@@ -1912,225 +1912,27 @@
                 <span class="city-area">待明确地区</span>
                 <span class="confirm">0</span>
                 <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                    </div>
-                <div class="main-block close main-hidden-block main-block310000" onclick="change(310000)">
-            <div class="prod">
-                <span class="area">上海</span>
-                <span class="confirm">331</span>
-                <span class="dead">1</span>
-                <span class="cured">140</span>
-            </div>
-            <div class="clearfix"></div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">外地来沪人员</span>
-                <span class="confirm">109</span>
-                <span class="dead">1</span>
-                <span class="cured">48</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">浦东新区</span>
-                <span class="confirm">59</span>
-                <span class="dead">0</span>
-                <span class="cured">27</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">宝山区</span>
-                <span class="confirm">21</span>
-                <span class="dead">0</span>
-                <span class="cured">5</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">徐汇区</span>
-                <span class="confirm">18</span>
-                <span class="dead">0</span>
-                <span class="cured">4</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">松江区</span>
-                <span class="confirm">14</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">闵行区</span>
-                <span class="confirm">18</span>
-                <span class="dead">0</span>
-                <span class="cured">7</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">静安区</span>
-                <span class="confirm">16</span>
-                <span class="dead">0</span>
-                <span class="cured">7</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">普陀区</span>
-                <span class="confirm">11</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">奉贤区</span>
-                <span class="confirm">9</span>
-                <span class="dead">0</span>
                 <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">长宁区</span>
-                <span class="confirm">13</span>
-                <span class="dead">0</span>
-                <span class="cured">6</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">杨浦区</span>
-                <span class="confirm">9</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">嘉定区</span>
-                <span class="confirm">9</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">虹口区</span>
-                <span class="confirm">7</span>
-                <span class="dead">0</span>
-                <span class="cured">3</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">黄浦区</span>
-                <span class="confirm">6</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">崇明区</span>
-                <span class="confirm">4</span>
-                <span class="dead">0</span>
-                <span class="cured">0</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">青浦区</span>
-                <span class="confirm">5</span>
-                <span class="dead">0</span>
-                <span class="cured">4</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">金山区</span>
-                <span class="confirm">3</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block310000 close">
-                <span class="city-area">待明确地区</span>
-                <span class="confirm">0</span>
-                <span class="dead">0</span>
-                <span class="cured">16</span>
-            </div>
-                    </div>
-                <div class="main-block close main-hidden-block main-block130000" onclick="change(130000)">
-            <div class="prod">
-                <span class="area">河北</span>
-                <span class="confirm">301</span>
-                <span class="dead">3</span>
-                <span class="cured">109</span>
-            </div>
-            <div class="clearfix"></div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">唐山</span>
-                <span class="confirm">51</span>
-                <span class="dead">0</span>
-                <span class="cured">9</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">沧州</span>
-                <span class="confirm">47</span>
-                <span class="dead">2</span>
-                <span class="cured">18</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">张家口</span>
-                <span class="confirm">34</span>
-                <span class="dead">0</span>
-                <span class="cured">9</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">邯郸</span>
-                <span class="confirm">31</span>
-                <span class="dead">0</span>
-                <span class="cured">10</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">石家庄</span>
-                <span class="confirm">28</span>
-                <span class="dead">0</span>
-                <span class="cured">7</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">廊坊</span>
-                <span class="confirm">30</span>
-                <span class="dead">0</span>
-                <span class="cured">14</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">邢台</span>
-                <span class="confirm">23</span>
-                <span class="dead">1</span>
-                <span class="cured">10</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">保定</span>
-                <span class="confirm">32</span>
-                <span class="dead">0</span>
-                <span class="cured">21</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">秦皇岛</span>
-                <span class="confirm">10</span>
-                <span class="dead">0</span>
-                <span class="cured">3</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">衡水</span>
-                <span class="confirm">8</span>
-                <span class="dead">0</span>
-                <span class="cured">4</span>
-            </div>
-                        <div class="prod-city-block prod-city-block130000 close">
-                <span class="city-area">承德</span>
-                <span class="confirm">7</span>
-                <span class="dead">0</span>
-                <span class="cured">4</span>
             </div>
                     </div>
                 <div class="main-block close main-hidden-block main-block450000" onclick="change(450000)">
             <div class="prod">
                 <span class="area">广西</span>
-                <span class="confirm">238</span>
+                <span class="confirm">242</span>
                 <span class="dead">2</span>
-                <span class="cured">51</span>
+                <span class="cured">58</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block450000 close">
                 <span class="city-area">南宁</span>
-                <span class="confirm">51</span>
+                <span class="confirm">54</span>
                 <span class="dead">0</span>
-                <span class="cured">14</span>
+                <span class="cured">16</span>
             </div>
                         <div class="prod-city-block prod-city-block450000 close">
                 <span class="city-area">北海</span>
-                <span class="confirm">43</span>
+                <span class="confirm">44</span>
                 <span class="dead">1</span>
-                <span class="cured">9</span>
-            </div>
-                        <div class="prod-city-block prod-city-block450000 close">
-                <span class="city-area">桂林</span>
-                <span class="confirm">31</span>
-                <span class="dead">0</span>
                 <span class="cured">10</span>
             </div>
                         <div class="prod-city-block prod-city-block450000 close">
@@ -2138,6 +1940,12 @@
                 <span class="confirm">22</span>
                 <span class="dead">1</span>
                 <span class="cured">0</span>
+            </div>
+                        <div class="prod-city-block prod-city-block450000 close">
+                <span class="city-area">桂林</span>
+                <span class="confirm">31</span>
+                <span class="dead">0</span>
+                <span class="cured">12</span>
             </div>
                         <div class="prod-city-block prod-city-block450000 close">
                 <span class="city-area">防城港</span>
@@ -2161,7 +1969,7 @@
                 <span class="city-area">玉林</span>
                 <span class="confirm">10</span>
                 <span class="dead">0</span>
-                <span class="cured">1</span>
+                <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block450000 close">
                 <span class="city-area">钦州</span>
@@ -2173,7 +1981,7 @@
                 <span class="city-area">贵港</span>
                 <span class="confirm">8</span>
                 <span class="dead">0</span>
-                <span class="cured">2</span>
+                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block450000 close">
                 <span class="city-area">贺州</span>
@@ -2194,29 +2002,215 @@
                 <span class="cured">5</span>
             </div>
                     </div>
+                <div class="main-block close main-hidden-block main-block130000" onclick="change(130000)">
+            <div class="prod">
+                <span class="area">河北</span>
+                <span class="confirm">302</span>
+                <span class="dead">4</span>
+                <span class="cured">123</span>
+            </div>
+            <div class="clearfix"></div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">唐山</span>
+                <span class="confirm">51</span>
+                <span class="dead">1</span>
+                <span class="cured">10</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">沧州</span>
+                <span class="confirm">48</span>
+                <span class="dead">2</span>
+                <span class="cured">18</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">张家口</span>
+                <span class="confirm">34</span>
+                <span class="dead">0</span>
+                <span class="cured">9</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">邯郸</span>
+                <span class="confirm">31</span>
+                <span class="dead">0</span>
+                <span class="cured">10</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">石家庄</span>
+                <span class="confirm">28</span>
+                <span class="dead">0</span>
+                <span class="cured">11</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">廊坊</span>
+                <span class="confirm">30</span>
+                <span class="dead">0</span>
+                <span class="cured">16</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">邢台</span>
+                <span class="confirm">23</span>
+                <span class="dead">1</span>
+                <span class="cured">10</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">秦皇岛</span>
+                <span class="confirm">10</span>
+                <span class="dead">0</span>
+                <span class="cured">3</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">保定</span>
+                <span class="confirm">32</span>
+                <span class="dead">0</span>
+                <span class="cured">26</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">承德</span>
+                <span class="confirm">7</span>
+                <span class="dead">0</span>
+                <span class="cured">4</span>
+            </div>
+                        <div class="prod-city-block prod-city-block130000 close">
+                <span class="city-area">衡水</span>
+                <span class="confirm">8</span>
+                <span class="dead">0</span>
+                <span class="cured">6</span>
+            </div>
+                    </div>
+                <div class="main-block close main-hidden-block main-block310000" onclick="change(310000)">
+            <div class="prod">
+                <span class="area">上海</span>
+                <span class="confirm">333</span>
+                <span class="dead">1</span>
+                <span class="cured">161</span>
+            </div>
+            <div class="clearfix"></div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">外地来沪人员</span>
+                <span class="confirm">110</span>
+                <span class="dead">1</span>
+                <span class="cured">59</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">浦东新区</span>
+                <span class="confirm">60</span>
+                <span class="dead">0</span>
+                <span class="cured">33</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">宝山区</span>
+                <span class="confirm">21</span>
+                <span class="dead">0</span>
+                <span class="cured">7</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">徐汇区</span>
+                <span class="confirm">18</span>
+                <span class="dead">0</span>
+                <span class="cured">6</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">松江区</span>
+                <span class="confirm">14</span>
+                <span class="dead">0</span>
+                <span class="cured">5</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">奉贤区</span>
+                <span class="confirm">9</span>
+                <span class="dead">0</span>
+                <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">闵行区</span>
+                <span class="confirm">18</span>
+                <span class="dead">0</span>
+                <span class="cured">11</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">静安区</span>
+                <span class="confirm">16</span>
+                <span class="dead">0</span>
+                <span class="cured">9</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">普陀区</span>
+                <span class="confirm">11</span>
+                <span class="dead">0</span>
+                <span class="cured">4</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">嘉定区</span>
+                <span class="confirm">9</span>
+                <span class="dead">0</span>
+                <span class="cured">2</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">杨浦区</span>
+                <span class="confirm">9</span>
+                <span class="dead">0</span>
+                <span class="cured">3</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">长宁区</span>
+                <span class="confirm">13</span>
+                <span class="dead">0</span>
+                <span class="cured">8</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">黄浦区</span>
+                <span class="confirm">6</span>
+                <span class="dead">0</span>
+                <span class="cured">2</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">崇明区</span>
+                <span class="confirm">4</span>
+                <span class="dead">0</span>
+                <span class="cured">0</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">虹口区</span>
+                <span class="confirm">7</span>
+                <span class="dead">0</span>
+                <span class="cured">4</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">金山区</span>
+                <span class="confirm">3</span>
+                <span class="dead">0</span>
+                <span class="cured">2</span>
+            </div>
+                        <div class="prod-city-block prod-city-block310000 close">
+                <span class="city-area">青浦区</span>
+                <span class="confirm">5</span>
+                <span class="dead">0</span>
+                <span class="cured">5</span>
+            </div>
+                    </div>
                 <div class="main-block close main-hidden-block main-block610000" onclick="change(610000)">
             <div class="prod">
                 <span class="area">陕西</span>
-                <span class="confirm">236</span>
+                <span class="confirm">240</span>
                 <span class="dead">0</span>
-                <span class="cured">71</span>
+                <span class="cured">79</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block610000 close">
                 <span class="city-area">西安</span>
-                <span class="confirm">114</span>
+                <span class="confirm">117</span>
                 <span class="dead">0</span>
-                <span class="cured">32</span>
+                <span class="cured">37</span>
             </div>
                         <div class="prod-city-block prod-city-block610000 close">
                 <span class="city-area">汉中</span>
                 <span class="confirm">25</span>
                 <span class="dead">0</span>
-                <span class="cured">1</span>
+                <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block610000 close">
                 <span class="city-area">安康</span>
-                <span class="confirm">24</span>
+                <span class="confirm">25</span>
                 <span class="dead">0</span>
                 <span class="cured">7</span>
             </div>
@@ -2224,7 +2218,7 @@
                 <span class="city-area">渭南</span>
                 <span class="confirm">15</span>
                 <span class="dead">0</span>
-                <span class="cured">2</span>
+                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block610000 close">
                 <span class="city-area">咸阳</span>
@@ -2233,16 +2227,16 @@
                 <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block610000 close">
-                <span class="city-area">宝鸡</span>
-                <span class="confirm">13</span>
-                <span class="dead">0</span>
-                <span class="cured">8</span>
-            </div>
-                        <div class="prod-city-block prod-city-block610000 close">
                 <span class="city-area">商洛</span>
                 <span class="confirm">7</span>
                 <span class="dead">0</span>
                 <span class="cured">2</span>
+            </div>
+                        <div class="prod-city-block prod-city-block610000 close">
+                <span class="city-area">宝鸡</span>
+                <span class="confirm">13</span>
+                <span class="dead">0</span>
+                <span class="cured">9</span>
             </div>
                         <div class="prod-city-block prod-city-block610000 close">
                 <span class="city-area">铜川</span>
@@ -2284,16 +2278,16 @@
                 <div class="main-block close main-hidden-block main-block530000" onclick="change(530000)">
             <div class="prod">
                 <span class="area">云南</span>
-                <span class="confirm">171</span>
+                <span class="confirm">172</span>
                 <span class="dead">0</span>
-                <span class="cured">42</span>
+                <span class="cured">47</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block530000 close">
                 <span class="city-area">昆明</span>
-                <span class="confirm">51</span>
+                <span class="confirm">52</span>
                 <span class="dead">0</span>
-                <span class="cured">8</span>
+                <span class="cured">11</span>
             </div>
                         <div class="prod-city-block prod-city-block530000 close">
                 <span class="city-area">昭通</span>
@@ -2305,7 +2299,7 @@
                 <span class="city-area">西双版纳</span>
                 <span class="confirm">15</span>
                 <span class="dead">0</span>
-                <span class="cured">3</span>
+                <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block530000 close">
                 <span class="city-area">玉溪</span>
@@ -2317,7 +2311,7 @@
                 <span class="city-area">曲靖</span>
                 <span class="confirm">13</span>
                 <span class="dead">0</span>
-                <span class="cured">5</span>
+                <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block530000 close">
                 <span class="city-area">大理州</span>
@@ -2377,34 +2371,34 @@
                 <div class="main-block close main-hidden-block main-block460000" onclick="change(460000)">
             <div class="prod">
                 <span class="area">海南</span>
-                <span class="confirm">162</span>
+                <span class="confirm">163</span>
                 <span class="dead">4</span>
-                <span class="cured">52</span>
+                <span class="cured">59</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block460000 close">
                 <span class="city-area">三亚</span>
                 <span class="confirm">54</span>
                 <span class="dead">1</span>
-                <span class="cured">16</span>
+                <span class="cured">15</span>
             </div>
                         <div class="prod-city-block prod-city-block460000 close">
                 <span class="city-area">海口</span>
-                <span class="confirm">33</span>
+                <span class="confirm">34</span>
                 <span class="dead">0</span>
-                <span class="cured">9</span>
-            </div>
-                        <div class="prod-city-block prod-city-block460000 close">
-                <span class="city-area">儋州</span>
-                <span class="confirm">15</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
+                <span class="cured">16</span>
             </div>
                         <div class="prod-city-block prod-city-block460000 close">
                 <span class="city-area">万宁</span>
                 <span class="confirm">13</span>
                 <span class="dead">0</span>
-                <span class="cured">3</span>
+                <span class="cured">4</span>
+            </div>
+                        <div class="prod-city-block prod-city-block460000 close">
+                <span class="city-area">儋州</span>
+                <span class="confirm">15</span>
+                <span class="dead">0</span>
+                <span class="cured">8</span>
             </div>
                         <div class="prod-city-block prod-city-block460000 close">
                 <span class="city-area">澄迈</span>
@@ -2416,12 +2410,6 @@
                 <span class="city-area">昌江</span>
                 <span class="confirm">7</span>
                 <span class="dead">0</span>
-                <span class="cured">0</span>
-            </div>
-                        <div class="prod-city-block prod-city-block460000 close">
-                <span class="city-area">琼海</span>
-                <span class="confirm">6</span>
-                <span class="dead">1</span>
                 <span class="cured">1</span>
             </div>
                         <div class="prod-city-block prod-city-block460000 close">
@@ -2431,19 +2419,25 @@
                 <span class="cured">0</span>
             </div>
                         <div class="prod-city-block prod-city-block460000 close">
-                <span class="city-area">临高</span>
+                <span class="city-area">琼海</span>
                 <span class="confirm">6</span>
-                <span class="dead">0</span>
+                <span class="dead">1</span>
                 <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block460000 close">
-                <span class="city-area">保亭</span>
-                <span class="confirm">3</span>
+                <span class="city-area">临高</span>
+                <span class="confirm">6</span>
                 <span class="dead">0</span>
-                <span class="cured">0</span>
+                <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block460000 close">
                 <span class="city-area">文昌</span>
+                <span class="confirm">3</span>
+                <span class="dead">0</span>
+                <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block460000 close">
+                <span class="city-area">保亭</span>
                 <span class="confirm">3</span>
                 <span class="dead">0</span>
                 <span class="cured">1</span>
@@ -2455,15 +2449,15 @@
                 <span class="cured">0</span>
             </div>
                         <div class="prod-city-block prod-city-block460000 close">
-                <span class="city-area">定安</span>
-                <span class="confirm">3</span>
-                <span class="dead">1</span>
-                <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block460000 close">
                 <span class="city-area">东方</span>
                 <span class="confirm">3</span>
                 <span class="dead">0</span>
+                <span class="cured">2</span>
+            </div>
+                        <div class="prod-city-block prod-city-block460000 close">
+                <span class="city-area">定安</span>
+                <span class="confirm">3</span>
+                <span class="dead">1</span>
                 <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block460000 close">
@@ -2472,68 +2466,62 @@
                 <span class="dead">0</span>
                 <span class="cured">1</span>
             </div>
-                        <div class="prod-city-block prod-city-block460000 close">
-                <span class="city-area">待明确地区</span>
-                <span class="confirm">0</span>
-                <span class="dead">0</span>
-                <span class="cured">12</span>
-            </div>
                     </div>
                 <div class="main-block close main-hidden-block main-block520000" onclick="change(520000)">
             <div class="prod">
                 <span class="area">贵州</span>
-                <span class="confirm">144</span>
+                <span class="confirm">146</span>
                 <span class="dead">1</span>
-                <span class="cured">46</span>
+                <span class="cured">66</span>
             </div>
             <div class="clearfix"></div>
+                        <div class="prod-city-block prod-city-block520000 close">
+                <span class="city-area">贵阳</span>
+                <span class="confirm">36</span>
+                <span class="dead">0</span>
+                <span class="cured">13</span>
+            </div>
                         <div class="prod-city-block prod-city-block520000 close">
                 <span class="city-area">遵义</span>
                 <span class="confirm">32</span>
                 <span class="dead">0</span>
-                <span class="cured">5</span>
-            </div>
-                        <div class="prod-city-block prod-city-block520000 close">
-                <span class="city-area">贵阳</span>
-                <span class="confirm">34</span>
-                <span class="dead">0</span>
-                <span class="cured">10</span>
+                <span class="cured">12</span>
             </div>
                         <div class="prod-city-block prod-city-block520000 close">
                 <span class="city-area">毕节</span>
                 <span class="confirm">23</span>
                 <span class="dead">0</span>
-                <span class="cured">7</span>
+                <span class="cured">10</span>
             </div>
                         <div class="prod-city-block prod-city-block520000 close">
                 <span class="city-area">黔南州</span>
                 <span class="confirm">17</span>
                 <span class="dead">0</span>
-                <span class="cured">6</span>
+                <span class="cured">7</span>
             </div>
                         <div class="prod-city-block prod-city-block520000 close">
                 <span class="city-area">黔东南州</span>
                 <span class="confirm">10</span>
                 <span class="dead">0</span>
-                <span class="cured">3</span>
+                <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block520000 close">
                 <span class="city-area">六盘水</span>
                 <span class="confirm">10</span>
                 <span class="dead">1</span>
-                <span class="cured">3</span>
-            </div>
-                        <div class="prod-city-block prod-city-block520000 close">
-                <span class="city-area">铜仁</span>
-                <span class="confirm">10</span>
-                <span class="dead">0</span>
-                <span class="cured">7</span>
+                <span class="cured">6</span>
             </div>
                         <div class="prod-city-block prod-city-block520000 close">
                 <span class="city-area">安顺</span>
                 <span class="confirm">4</span>
                 <span class="dead">0</span>
                 <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block520000 close">
+                <span class="city-area">铜仁</span>
+                <span class="confirm">10</span>
+                <span class="dead">0</span>
+                <span class="cured">9</span>
             </div>
                         <div class="prod-city-block prod-city-block520000 close">
                 <span class="city-area">黔西南州</span>
@@ -2547,7 +2535,7 @@
                 <span class="area">辽宁</span>
                 <span class="confirm">121</span>
                 <span class="dead">1</span>
-                <span class="cured">40</span>
+                <span class="cured">43</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block210000 close">
@@ -2555,12 +2543,6 @@
                 <span class="confirm">19</span>
                 <span class="dead">0</span>
                 <span class="cured">5</span>
-            </div>
-                        <div class="prod-city-block prod-city-block210000 close">
-                <span class="city-area">沈阳</span>
-                <span class="confirm">28</span>
-                <span class="dead">0</span>
-                <span class="cured">17</span>
             </div>
                         <div class="prod-city-block prod-city-block210000 close">
                 <span class="city-area">葫芦岛</span>
@@ -2573,6 +2555,12 @@
                 <span class="confirm">11</span>
                 <span class="dead">0</span>
                 <span class="cured">0</span>
+            </div>
+                        <div class="prod-city-block prod-city-block210000 close">
+                <span class="city-area">沈阳</span>
+                <span class="confirm">28</span>
+                <span class="dead">0</span>
+                <span class="cured">19</span>
             </div>
                         <div class="prod-city-block prod-city-block210000 close">
                 <span class="city-area">阜新</span>
@@ -2593,12 +2581,6 @@
                 <span class="cured">7</span>
             </div>
                         <div class="prod-city-block prod-city-block210000 close">
-                <span class="city-area">朝阳</span>
-                <span class="confirm">6</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block210000 close">
                 <span class="city-area">鞍山</span>
                 <span class="confirm">4</span>
                 <span class="dead">0</span>
@@ -2609,6 +2591,12 @@
                 <span class="confirm">7</span>
                 <span class="dead">0</span>
                 <span class="cured">4</span>
+            </div>
+                        <div class="prod-city-block prod-city-block210000 close">
+                <span class="city-area">朝阳</span>
+                <span class="confirm">6</span>
+                <span class="dead">0</span>
+                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block210000 close">
                 <span class="city-area">本溪</span>
@@ -2632,16 +2620,16 @@
                 <div class="main-block close main-hidden-block main-block140000" onclick="change(140000)">
             <div class="prod">
                 <span class="area">山西</span>
-                <span class="confirm">129</span>
+                <span class="confirm">130</span>
                 <span class="dead">0</span>
-                <span class="cured">50</span>
+                <span class="cured">53</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block140000 close">
                 <span class="city-area">晋中</span>
                 <span class="confirm">36</span>
                 <span class="dead">0</span>
-                <span class="cured">13</span>
+                <span class="cured">15</span>
             </div>
                         <div class="prod-city-block prod-city-block140000 close">
                 <span class="city-area">太原</span>
@@ -2653,7 +2641,7 @@
                 <span class="city-area">大同</span>
                 <span class="confirm">12</span>
                 <span class="dead">0</span>
-                <span class="cured">4</span>
+                <span class="cured">5</span>
             </div>
                         <div class="prod-city-block prod-city-block140000 close">
                 <span class="city-area">晋城</span>
@@ -2674,16 +2662,16 @@
                 <span class="cured">13</span>
             </div>
                         <div class="prod-city-block prod-city-block140000 close">
+                <span class="city-area">朔州</span>
+                <span class="confirm">8</span>
+                <span class="dead">0</span>
+                <span class="cured">2</span>
+            </div>
+                        <div class="prod-city-block prod-city-block140000 close">
                 <span class="city-area">忻州</span>
                 <span class="confirm">7</span>
                 <span class="dead">0</span>
                 <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block140000 close">
-                <span class="city-area">朔州</span>
-                <span class="confirm">7</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block140000 close">
                 <span class="city-area">阳泉</span>
@@ -2707,16 +2695,16 @@
                 <div class="main-block close main-hidden-block main-block120000" onclick="change(120000)">
             <div class="prod">
                 <span class="area">天津</span>
-                <span class="confirm">124</span>
+                <span class="confirm">125</span>
                 <span class="dead">3</span>
-                <span class="cured">45</span>
+                <span class="cured">46</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block120000 close">
                 <span class="city-area">宝坻区</span>
-                <span class="confirm">49</span>
+                <span class="confirm">50</span>
                 <span class="dead">2</span>
-                <span class="cured">9</span>
+                <span class="cured">12</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
                 <span class="city-area">河东区</span>
@@ -2743,22 +2731,16 @@
                 <span class="cured">1</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
-                <span class="city-area">和平区</span>
-                <span class="confirm">6</span>
+                <span class="city-area">宁河区</span>
+                <span class="confirm">4</span>
                 <span class="dead">0</span>
-                <span class="cured">2</span>
+                <span class="cured">0</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
                 <span class="city-area">外地来津人员</span>
                 <span class="confirm">6</span>
                 <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block120000 close">
-                <span class="city-area">宁河区</span>
-                <span class="confirm">4</span>
-                <span class="dead">0</span>
-                <span class="cured">0</span>
+                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
                 <span class="city-area">东丽区</span>
@@ -2767,10 +2749,10 @@
                 <span class="cured">1</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
-                <span class="city-area">滨海新区</span>
-                <span class="confirm">3</span>
+                <span class="city-area">和平区</span>
+                <span class="confirm">6</span>
                 <span class="dead">0</span>
-                <span class="cured">0</span>
+                <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
                 <span class="city-area">河西区</span>
@@ -2779,10 +2761,16 @@
                 <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
+                <span class="city-area">滨海新区</span>
+                <span class="confirm">3</span>
+                <span class="dead">0</span>
+                <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block120000 close">
                 <span class="city-area">西青区</span>
                 <span class="confirm">4</span>
                 <span class="dead">0</span>
-                <span class="cured">2</span>
+                <span class="cured">3</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
                 <span class="city-area">武清区</span>
@@ -2791,28 +2779,22 @@
                 <span class="cured">1</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
-                <span class="city-area">津南区</span>
-                <span class="confirm">1</span>
-                <span class="dead">0</span>
-                <span class="cured">0</span>
-            </div>
-                        <div class="prod-city-block prod-city-block120000 close">
                 <span class="city-area">红桥区</span>
                 <span class="confirm">2</span>
                 <span class="dead">0</span>
                 <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block120000 close">
-                <span class="city-area">待明确地区</span>
-                <span class="confirm">0</span>
+                <span class="city-area">津南区</span>
+                <span class="confirm">1</span>
                 <span class="dead">0</span>
-                <span class="cured">8</span>
+                <span class="cured">1</span>
             </div>
                     </div>
                 <div class="main-block close main-hidden-block main-block150000" onclick="change(150000)">
             <div class="prod">
                 <span class="area">内蒙古</span>
-                <span class="confirm">70</span>
+                <span class="confirm">73</span>
                 <span class="dead">0</span>
                 <span class="cured">8</span>
             </div>
@@ -2836,31 +2818,31 @@
                 <span class="cured">0</span>
             </div>
                         <div class="prod-city-block prod-city-block150000 close">
-                <span class="city-area">呼和浩特</span>
-                <span class="confirm">7</span>
-                <span class="dead">0</span>
-                <span class="cured">0</span>
-            </div>
-                        <div class="prod-city-block prod-city-block150000 close">
                 <span class="city-area">赤峰</span>
                 <span class="confirm">9</span>
                 <span class="dead">0</span>
                 <span class="cured">2</span>
             </div>
                         <div class="prod-city-block prod-city-block150000 close">
+                <span class="city-area">锡林郭勒盟</span>
+                <span class="confirm">8</span>
+                <span class="dead">0</span>
+                <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block150000 close">
+                <span class="city-area">呼和浩特</span>
+                <span class="confirm">7</span>
+                <span class="dead">0</span>
+                <span class="cured">0</span>
+            </div>
+                        <div class="prod-city-block prod-city-block150000 close">
                 <span class="city-area">通辽</span>
-                <span class="confirm">6</span>
+                <span class="confirm">7</span>
                 <span class="dead">0</span>
                 <span class="cured">0</span>
             </div>
                         <div class="prod-city-block prod-city-block150000 close">
                 <span class="city-area">呼伦贝尔</span>
-                <span class="confirm">6</span>
-                <span class="dead">0</span>
-                <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block150000 close">
-                <span class="city-area">锡林郭勒盟</span>
                 <span class="confirm">6</span>
                 <span class="dead">0</span>
                 <span class="cured">1</span>
@@ -2884,79 +2866,10 @@
                 <span class="cured">0</span>
             </div>
                     </div>
-                <div class="main-block close main-hidden-block main-block220000" onclick="change(220000)">
-            <div class="prod">
-                <span class="area">吉林</span>
-                <span class="confirm">89</span>
-                <span class="dead">1</span>
-                <span class="cured">30</span>
-            </div>
-            <div class="clearfix"></div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">长春</span>
-                <span class="confirm">45</span>
-                <span class="dead">0</span>
-                <span class="cured">16</span>
-            </div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">四平市</span>
-                <span class="confirm">14</span>
-                <span class="dead">1</span>
-                <span class="cured">4</span>
-            </div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">辽源</span>
-                <span class="confirm">7</span>
-                <span class="dead">0</span>
-                <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">公主岭</span>
-                <span class="confirm">6</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">延边</span>
-                <span class="confirm">5</span>
-                <span class="dead">0</span>
-                <span class="cured">2</span>
-            </div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">通化</span>
-                <span class="confirm">3</span>
-                <span class="dead">0</span>
-                <span class="cured">0</span>
-            </div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">吉林市</span>
-                <span class="confirm">5</span>
-                <span class="dead">0</span>
-                <span class="cured">3</span>
-            </div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">松原</span>
-                <span class="confirm">2</span>
-                <span class="dead">0</span>
-                <span class="cured">1</span>
-            </div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">白城</span>
-                <span class="confirm">1</span>
-                <span class="dead">0</span>
-                <span class="cured">0</span>
-            </div>
-                        <div class="prod-city-block prod-city-block220000 close">
-                <span class="city-area">梅河口</span>
-                <span class="confirm">1</span>
-                <span class="dead">0</span>
-                <span class="cured">1</span>
-            </div>
-                    </div>
                 <div class="main-block close main-hidden-block main-block650000" onclick="change(650000)">
             <div class="prod">
                 <span class="area">新疆</span>
-                <span class="confirm">71</span>
+                <span class="confirm">76</span>
                 <span class="dead">1</span>
                 <span class="cured">12</span>
             </div>
@@ -2969,7 +2882,7 @@
             </div>
                         <div class="prod-city-block prod-city-block650000 close">
                 <span class="city-area">伊犁州</span>
-                <span class="confirm">16</span>
+                <span class="confirm">18</span>
                 <span class="dead">0</span>
                 <span class="cured">4</span>
             </div>
@@ -2998,26 +2911,26 @@
                 <span class="cured">0</span>
             </div>
                         <div class="prod-city-block prod-city-block650000 close">
+                <span class="city-area">兵团第十二师</span>
+                <span class="confirm">3</span>
+                <span class="dead">0</span>
+                <span class="cured">0</span>
+            </div>
+                        <div class="prod-city-block prod-city-block650000 close">
                 <span class="city-area">吐鲁番市</span>
                 <span class="confirm">3</span>
                 <span class="dead">0</span>
                 <span class="cured">1</span>
             </div>
                         <div class="prod-city-block prod-city-block650000 close">
-                <span class="city-area">兵团第六师五家渠市</span>
-                <span class="confirm">2</span>
-                <span class="dead">0</span>
-                <span class="cured">0</span>
-            </div>
-                        <div class="prod-city-block prod-city-block650000 close">
                 <span class="city-area">兵团第八师石河子市</span>
-                <span class="confirm">3</span>
+                <span class="confirm">4</span>
                 <span class="dead">1</span>
                 <span class="cured">1</span>
             </div>
                         <div class="prod-city-block prod-city-block650000 close">
-                <span class="city-area">兵团第十二师</span>
-                <span class="confirm">1</span>
+                <span class="city-area">兵团第六师五家渠市</span>
+                <span class="confirm">2</span>
                 <span class="dead">0</span>
                 <span class="cured">0</span>
             </div>
@@ -3037,18 +2950,87 @@
                 <div class="main-block close main-hidden-block main-block810000" onclick="change(810000)">
             <div class="prod">
                 <span class="area">香港</span>
-                <span class="confirm">57</span>
+                <span class="confirm">60</span>
                 <span class="dead">1</span>
                 <span class="cured">2</span>
             </div>
             <div class="clearfix"></div>
+                    </div>
+                <div class="main-block close main-hidden-block main-block220000" onclick="change(220000)">
+            <div class="prod">
+                <span class="area">吉林</span>
+                <span class="confirm">89</span>
+                <span class="dead">1</span>
+                <span class="cured">34</span>
+            </div>
+            <div class="clearfix"></div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">长春</span>
+                <span class="confirm">45</span>
+                <span class="dead">0</span>
+                <span class="cured">19</span>
+            </div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">四平市</span>
+                <span class="confirm">14</span>
+                <span class="dead">1</span>
+                <span class="cured">4</span>
+            </div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">辽源</span>
+                <span class="confirm">7</span>
+                <span class="dead">0</span>
+                <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">公主岭</span>
+                <span class="confirm">6</span>
+                <span class="dead">0</span>
+                <span class="cured">2</span>
+            </div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">延边</span>
+                <span class="confirm">5</span>
+                <span class="dead">0</span>
+                <span class="cured">2</span>
+            </div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">吉林市</span>
+                <span class="confirm">5</span>
+                <span class="dead">0</span>
+                <span class="cured">3</span>
+            </div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">通化</span>
+                <span class="confirm">3</span>
+                <span class="dead">0</span>
+                <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">松原</span>
+                <span class="confirm">2</span>
+                <span class="dead">0</span>
+                <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">白城</span>
+                <span class="confirm">1</span>
+                <span class="dead">0</span>
+                <span class="cured">0</span>
+            </div>
+                        <div class="prod-city-block prod-city-block220000 close">
+                <span class="city-area">梅河口</span>
+                <span class="confirm">1</span>
+                <span class="dead">0</span>
+                <span class="cured">1</span>
+            </div>
                     </div>
                 <div class="main-block close main-hidden-block main-block640000" onclick="change(640000)">
             <div class="prod">
                 <span class="area">宁夏</span>
                 <span class="confirm">70</span>
                 <span class="dead">0</span>
-                <span class="cured">33</span>
+                <span class="cured">35</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block640000 close">
@@ -3061,7 +3043,7 @@
                 <span class="city-area">银川</span>
                 <span class="confirm">33</span>
                 <span class="dead">0</span>
-                <span class="cured">20</span>
+                <span class="cured">22</span>
             </div>
                         <div class="prod-city-block prod-city-block640000 close">
                 <span class="city-area">固原</span>
@@ -3091,14 +3073,14 @@
                 <div class="main-block close main-hidden-block main-block620000" onclick="change(620000)">
             <div class="prod">
                 <span class="area">甘肃</span>
-                <span class="confirm">90</span>
+                <span class="confirm">91</span>
                 <span class="dead">2</span>
-                <span class="cured">54</span>
+                <span class="cured">58</span>
             </div>
             <div class="clearfix"></div>
                         <div class="prod-city-block prod-city-block620000 close">
                 <span class="city-area">兰州</span>
-                <span class="confirm">35</span>
+                <span class="confirm">36</span>
                 <span class="dead">2</span>
                 <span class="cured">20</span>
             </div>
@@ -3115,16 +3097,16 @@
                 <span class="cured">4</span>
             </div>
                         <div class="prod-city-block prod-city-block620000 close">
-                <span class="city-area">天水</span>
-                <span class="confirm">12</span>
-                <span class="dead">0</span>
-                <span class="cured">9</span>
-            </div>
-                        <div class="prod-city-block prod-city-block620000 close">
                 <span class="city-area">白银</span>
                 <span class="confirm">4</span>
                 <span class="dead">0</span>
                 <span class="cured">1</span>
+            </div>
+                        <div class="prod-city-block prod-city-block620000 close">
+                <span class="city-area">天水</span>
+                <span class="confirm">12</span>
+                <span class="dead">0</span>
+                <span class="cured">11</span>
             </div>
                         <div class="prod-city-block prod-city-block620000 close">
                 <span class="city-area">定西</span>
@@ -3162,11 +3144,17 @@
                 <span class="dead">0</span>
                 <span class="cured">1</span>
             </div>
+                        <div class="prod-city-block prod-city-block620000 close">
+                <span class="city-area">待明确地区</span>
+                <span class="confirm">0</span>
+                <span class="dead">0</span>
+                <span class="cured">2</span>
+            </div>
                     </div>
                 <div class="main-block close main-hidden-block main-block710000" onclick="change(710000)">
             <div class="prod">
                 <span class="area">台湾</span>
-                <span class="confirm">20</span>
+                <span class="confirm">22</span>
                 <span class="dead">1</span>
                 <span class="cured">2</span>
             </div>
@@ -3223,15 +3211,15 @@
     </div>
     <div class="todaydata">
         <span class="today-title">其他疫情</span>
-        <span class="today-time">数据更新至 2020.02.17 08:39(北京时间)</span>
+        <span class="today-time">数据更新至 2020.02.18 10:56(北京时间)</span>
     </div>
     <div class="recentNumber other-area">
         <div class="icbar confirm">
-            <div class="number">690</div>
+            <div class="number">804</div>
             <div class="text">确诊病例</div>
         </div>
         <div class="icbar cure">
-            <div class="number">85</div>
+            <div class="number">98</div>
             <div class="text">治愈人数</div>
         </div>
         <div class="icbar dead">
@@ -3249,7 +3237,7 @@
         <div class="main-block ">
         <div class="prod">
             <span class="area">日本</span>
-            <span class="confirm">411</span>
+            <span class="confirm">520</span>
             <span class="dead">1</span>
             <span class="cured-notag">1</span>
         </div>
@@ -3258,16 +3246,16 @@
         <div class="main-block ">
         <div class="prod">
             <span class="area">新加坡</span>
-            <span class="confirm">75</span>
+            <span class="confirm">77</span>
             <span class="dead">0</span>
-            <span class="cured-notag">19</span>
+            <span class="cured-notag">24</span>
         </div>
         <div class="clearfix"></div>
     </div>
         <div class="main-block ">
         <div class="prod">
             <span class="area">泰国</span>
-            <span class="confirm">34</span>
+            <span class="confirm">35</span>
             <span class="dead">0</span>
             <span class="cured-notag">14</span>
         </div>
@@ -3276,9 +3264,9 @@
         <div class="main-block ">
         <div class="prod">
             <span class="area">韩国</span>
-            <span class="confirm">29</span>
+            <span class="confirm">31</span>
             <span class="dead">0</span>
-            <span class="cured-notag">9</span>
+            <span class="cured-notag">10</span>
         </div>
         <div class="clearfix"></div>
     </div>
@@ -3286,6 +3274,15 @@
         <div class="prod">
             <span class="area">马来西亚</span>
             <span class="confirm">22</span>
+            <span class="dead">0</span>
+            <span class="cured-notag">9</span>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+        <div class="main-block close country-hidden-block">
+        <div class="prod">
+            <span class="area">德国</span>
+            <span class="confirm">16</span>
             <span class="dead">0</span>
             <span class="cured-notag">7</span>
         </div>
@@ -3297,15 +3294,6 @@
             <span class="confirm">16</span>
             <span class="dead">0</span>
             <span class="cured-notag">7</span>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-        <div class="main-block close country-hidden-block">
-        <div class="prod">
-            <span class="area">德国</span>
-            <span class="confirm">16</span>
-            <span class="dead">0</span>
-            <span class="cured-notag">1</span>
         </div>
         <div class="clearfix"></div>
     </div>
@@ -3338,19 +3326,19 @@
     </div>
         <div class="main-block close country-hidden-block">
         <div class="prod">
-            <span class="area">阿联酋</span>
+            <span class="area">英国</span>
             <span class="confirm">9</span>
             <span class="dead">0</span>
-            <span class="cured-notag">4</span>
+            <span class="cured-notag">8</span>
         </div>
         <div class="clearfix"></div>
     </div>
         <div class="main-block close country-hidden-block">
         <div class="prod">
-            <span class="area">英国</span>
+            <span class="area">阿联酋</span>
             <span class="confirm">9</span>
             <span class="dead">0</span>
-            <span class="cured-notag">8</span>
+            <span class="cured-notag">4</span>
         </div>
         <div class="clearfix"></div>
     </div>
@@ -3374,6 +3362,15 @@
     </div>
         <div class="main-block close country-hidden-block">
         <div class="prod">
+            <span class="area">印度</span>
+            <span class="confirm">3</span>
+            <span class="dead">0</span>
+            <span class="cured-notag">0</span>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+        <div class="main-block close country-hidden-block">
+        <div class="prod">
             <span class="area">菲律宾</span>
             <span class="confirm">3</span>
             <span class="dead">1</span>
@@ -3383,8 +3380,8 @@
     </div>
         <div class="main-block close country-hidden-block">
         <div class="prod">
-            <span class="area">印度</span>
-            <span class="confirm">3</span>
+            <span class="area">西班牙</span>
+            <span class="confirm">2</span>
             <span class="dead">0</span>
             <span class="cured-notag">0</span>
         </div>
@@ -3401,8 +3398,8 @@
     </div>
         <div class="main-block close country-hidden-block">
         <div class="prod">
-            <span class="area">西班牙</span>
-            <span class="confirm">2</span>
+            <span class="area">瑞典</span>
+            <span class="confirm">1</span>
             <span class="dead">0</span>
             <span class="cured-notag">0</span>
         </div>
@@ -3419,28 +3416,19 @@
     </div>
         <div class="main-block close country-hidden-block">
         <div class="prod">
-            <span class="area">芬兰</span>
-            <span class="confirm">1</span>
-            <span class="dead">0</span>
-            <span class="cured-notag">1</span>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-        <div class="main-block close country-hidden-block">
-        <div class="prod">
-            <span class="area">瑞典</span>
-            <span class="confirm">1</span>
-            <span class="dead">0</span>
-            <span class="cured-notag">0</span>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-        <div class="main-block close country-hidden-block">
-        <div class="prod">
             <span class="area">斯里兰卡</span>
             <span class="confirm">1</span>
             <span class="dead">0</span>
             <span class="cured-notag">1</span>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+        <div class="main-block close country-hidden-block">
+        <div class="prod">
+            <span class="area">埃及</span>
+            <span class="confirm">1</span>
+            <span class="dead">0</span>
+            <span class="cured-notag">0</span>
         </div>
         <div class="clearfix"></div>
     </div>
@@ -3473,171 +3461,94 @@
         <div class="timeLine"></div>
                 <div class="singleNew">
             <div class="timeIcon"></div>
-            <div class="times"><span class="pass">20分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">河南信阳出现两例超常规病例：密切接触30多天才确诊</div>
-                <div class="desc">河南信阳新县昨天通报了2例确诊病例的情况：2例确诊病例潜伏时间长、传染源不明确、确诊困难，并且具有较强传染性。</div>
-                <div class="source">来源：央视新闻</div>
+            <div class="times"><span class="pass">18分钟前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">世卫组织不提高疫情全球风险级别</div>
+                <div class="desc">17日，世卫组织总干事谭德塞表示，世卫组织维持此前评估，即新冠肺炎并非全球性流行病，也不会提高疫情的全球范围风险级别。世卫组织还表示，采用新冠肺炎康复者血浆治疗新冠肺炎的疗法值得进一步研究。 </div>
+                <div class="source">来源：人民网</div>
             </div>
         </div>
                 <div class="singleNew">
             <div class="timeIcon"></div>
-            <div class="times"><span class="pass">20分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">中国铁路首趟复工人员定制专列开行</div>
-                <div class="desc">2月16日，杭州东站，工作人员拉出“杭州欢迎您回家”条幅迎接返岗员工。当日，为满足企业复工的用工需求，降低返程运输的疫情传播风险，60余家杭州企业的近300名贵州员工乘坐G4138次列车到达杭州东站，这是中国铁路部门节后开行的服务企业外地员工返程的首趟复工人员定制专列。
+            <div class="times"><span class="pass">35分钟前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title"> 北京市新增6例，累计387例</div>
+                <div class="desc">  2月17日0时至24时，本市新增6例新冠肺炎确诊病例，均为确诊病例的密切接触者，已送至定点医疗机构进行救治。 截至2月17日24时，本市累计确诊病例387例。其中出院122例，死亡4例。       </div>
+                <div class="source">来源：北京卫健委</div>
+            </div>
+        </div>
+                <div class="singleNew">
+            <div class="timeIcon"></div>
+            <div class="times"><span class="pass">40分钟前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">钻石公主号所有人员样本采集完毕</div>
+                <div class="desc">日本厚生劳动大臣加藤胜信18日表示，目前“钻石公主号”邮轮上的所有人员用于检测新冠肺炎的样本已经采集完毕。钻石公主号无感染人员19日起下船，预计21日钻石公主号所有人将下船。
 </div>
                 <div class="source">来源：人民日报</div>
             </div>
         </div>
                 <div class="singleNew">
             <div class="timeIcon"></div>
-            <div class="times"><span class="pass">28分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">武汉6家非新冠肺炎患者救治医院</div>
-                <div class="desc">16日，武汉市卫健委发布公告，为满足慢性重症患者、孕产妇、儿童、血液透析患者的医疗需求，公布六家接诊非新冠肺炎患者的医疗机构名单：武汉市中医院汉口院区、武汉市中心医院南京路院区、武汉市第一医院、武汉市第三医院首义院区、武汉儿童医院、武汉市第六医院。
-</div>
-                <div class="source">来源：人民网</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">29分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">四川省新增确诊14例，累计495例，新增治愈9例</div>
-                <div class="desc">四川省新型冠状病毒肺炎新增确诊病例14例，新增治愈出院病例9例，新增疑似病例40例，无新增死亡病例。新增确诊病例中，甘孜州7例、遂宁市5例、达州市2例。
-
-  
-
-
-
-
-
-
-
-</div>
-                <div class="source">来源：四川卫健委</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">32分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">安徽省新增确诊病例11例，新增治愈出院34例</div>
-                <div class="desc"> 2020年2月16日0-24时，安徽省报告新增确诊病例11例，累计报告确诊病例973例，新增疑似病例9例，新增治愈出院病例34例。</div>
-                <div class="source">来源：安徽卫健委</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">42分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">福建省新增确诊3例，累计290例，新增治愈7例        </div>
-                <div class="desc">2月16日0—24时，福建省报告新增新型冠状病毒肺炎确诊病例3例，新增治愈出院病例7例。截至2月16日24时，福建省累计报告新型冠状病毒肺炎确诊病例290例（危重型8例、重型11例，无死亡病例）。
-　
-                </div>
-                <div class="source">来源：福建卫健委</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">44分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">上海新增确诊3例，累计确诊病例331例</div>
-                <div class="desc">2020年2月16日12—24时，上海市排除新型冠状病毒肺炎疑似病例57例；新增确诊病例3例，为本市常住人口。截至2月16日24时，上海市已累计排除疑似病例1749例，发现确诊病例331例。</div>
+            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">上海新增1例新型冠状病毒肺炎确诊病例</div>
+                <div class="desc">2020年2月17日12—24时，上海市排除新型冠状病毒肺炎疑似病例60例；新增确诊病例1例，为外地来沪人员。1目前，153例病情平稳，14例病情危重，4例重症，161例治愈出院，1例死亡。尚有97例疑似病例正在排查中。
+                        </div>
                 <div class="source">来源：上海卫健委</div>
             </div>
         </div>
                 <div class="singleNew">
             <div class="timeIcon"></div>
-            <div class="times"><span class="pass">53分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">湖北黄冈抗疫一线医护人员优先评定职称晋升岗位</div>
-                <div class="desc">日前，湖北黄冈市出台文件提出，全面落实医疗卫生人才各项待遇，给予人事政策倾斜。对参加疫情防控工作的医护人员优先晋升聘用岗位，加大职称评定倾斜力度。黄冈市将在职称评定量化评审时，对参加疫情防控工作的医生、护士、检疫检验、防疫科研攻关等专业技术人员，予以加分，同等条件下优先推荐。
+            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">天津新增1例，累计125例</div>
+                <div class="desc">2020年2月17日0-24时，天津市报告新型冠状病毒肺炎新增确诊病例1例，新增危重型病例1例，新增重型病例0例，新增死亡病例0例，新增出院病例1例。截至2月17日24时，天津市累计报告新型冠状病毒肺炎确诊病例125例，目前追踪到密切接触者1646人，已解除医学观察920人，尚有686人正在接受医学观察。</div>
+                <div class="source">来源：天津卫健委</div>
+            </div>
+        </div>
+                <div class="singleNew">
+            <div class="timeIcon"></div>
+            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">陕西无新增新冠肺炎，确诊病例累计240例</div>
+                <div class="desc">截至2月18日9时，陕西今日无新增新冠肺炎确诊病例。新增疑似病例22例。陕西累计报告新冠肺炎确诊病例240例，其中输入性病例116例，密切接触者109例，无明确接触史病例15例。全省现有疑似病例79例。全省新增密切接触者322人，累计16650人，均集中医学观察。新增解除密切接触者667人，累计解除密切接触者11339人。</div>
+                <div class="source">来源：陕西卫健委</div>
+            </div>
+        </div>
+                <div class="singleNew">
+            <div class="timeIcon"></div>
+            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">浙江新增1例，累计1172例</div>
+                <div class="desc">2020年2月17日0-24时，浙江省报告新型冠状病毒肺炎新增确诊病例1例，新增出院病例44例。截至2月17日24时，浙江省累计报告新型冠状病毒肺炎确诊病例1172例，现有重症病例67例（其中危重22例），累计出院514例。 全省共追踪到密切接触者38524人，当日解除医学观察1474人，尚有6738人正在接受医学观察。</div>
+                <div class="source">来源：浙江卫健委</div>
+            </div>
+        </div>
+                <div class="singleNew">
+            <div class="timeIcon"></div>
+            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">广东省新增6例，累计1328例</div>
+                <div class="desc">截至2月17日24时，全省累计报告新冠肺炎确诊病例1328例。17日当天全省新增确诊病例6例，新增出院57例，累计出院530例。新增出院病例中，8例为重型或危重型病例治愈出院，其他为普通型或者轻型治愈出院。新增确诊病例中，东莞市2例，深圳市、珠海市、惠州市和肇庆市各1例。无疑似病例。有2612名密切接触者正在接受医学观察。</div>
+                <div class="source">来源：广东卫健委</div>
+            </div>
+        </div>
+                <div class="singleNew">
+            <div class="timeIcon"></div>
+            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">辽宁无新增确诊，新增2例治愈出院</div>
+                <div class="desc">2020年2月17日0时至24时，辽宁省无新增新型冠状病毒肺炎确诊病例。新增2例治愈出院病例，均为盘锦市确诊病例。目前，辽宁省累计报告新型冠状病毒肺炎确诊病例121例，治愈出院43例，死亡1例。目前累计追踪到密切接触者2691人，已解除医学观察2097人，现有594正在接受医学观察。
+  </div>
+                <div class="source">来源：辽宁卫健委</div>
+            </div>
+        </div>
+                <div class="singleNew">
+            <div class="timeIcon"></div>
+            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">湖南新增1例，累计1007例</div>
+                <div class="desc">2020年2月17日0-24时，湖南省报告新型冠状病毒肺炎新增确诊病例1例，新增重症病例0例，新增死亡病例1例，新增出院病例34例。截至2月17日24时，湖南省累计报告新型冠状病毒肺炎确诊病例1007例，累计报告重症病例138例，现有重症病例47例，死亡病例4例，出院病例501例，在院治疗502例。目前追踪到密切接触者26282人，已解除医学观察23066人，尚有3216人正在接受医学观察。</div>
+                <div class="source">来源：湖南卫健委</div>
+            </div>
+        </div>
+                <div class="singleNew">
+            <div class="timeIcon"></div>
+            <div class="times"><span class="pass">12小时前</span><div class="newest"></div></div>
+            <div class="news-box"><div class="title">甘肃新增1例确诊病例，累计91例</div>
+                <div class="desc">2月16日20时至2月17日20时，甘肃省新增1例新型冠状病毒肺炎确诊病例，兰州市1例。新增出院4例。截至2月17日20时，甘肃累计报告新型冠状病毒肺炎确诊病例91例。累计治愈出院58例，累计死亡病例2例。目前，累计追踪到密切接触者4002人，已解除医学观察3265人，其余737人正在接受医学观察。
 </div>
-                <div class="source">来源：央视新闻</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">55分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">吉林省全省无新增确诊病例，新增治愈出院2例</div>
-                <div class="desc">2月16日0-24时，全省无新增确诊病例。新增治愈出院2例（长春市2例）。截至2月16日24时，全省累计报告确诊病例89例，累计治愈出院30例，死亡1例（四平市），现在院隔离治疗确诊病例58例。</div>
-                <div class="source">来源：吉林卫健委</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">57分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">广西新增确诊病例1例，累计238例，新增治愈出院病例5例</div>
-                <div class="desc">    2月16日0-24时，广西共新增新型冠状病毒肺炎确诊病例1例（南宁市1例）；新增疑似病例26例；新增治愈出院病例5例（南宁市3例、北海市2例）；无新增死亡病例。目前全区累计报告确诊病例238例，累计出院病例51例。</div>
-                <div class="source">来源：广西卫健委</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">59分钟前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">黑龙江省新增确诊病例12例，新增治愈10例</div>
-                <div class="desc">2020年2月16日0-24时,黑龙江省报告新型冠状病毒感染的肺炎新增确诊病例12例。新增治愈出院病例10例。新增重症病例6例。新增疑似病例27例。截至2月16日24时,黑龙江省报告新型冠状病毒感染的肺炎确诊病例457例。
-
-
-	
-		</div>
-                <div class="source">来源：黑龙江卫健委</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">再出发！军队支援湖北医疗队第四次启程</div>
-                <div class="desc">今天，空军出动多架运输机，从上海虹桥等7个机场起飞，向武汉紧急空运军队支援湖北医疗队队员和物资。此前，军队已3次派出医疗队前往湖北。#万众一心抗击疫情#，等你们平安凯旋！（央视）再出发！军队支援湖北医疗队队员和物资第四次启程前往湖北 
-</div>
-                <div class="source">来源：人民网</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">生产销售问题医用口罩最高可判无期</div>
-                <div class="desc">根据两高两部联合发布的《关于依法惩治妨害新型冠状病毒感染肺炎疫情防控违法犯罪的意见》规定，生产不符合保障人体健康的国家标准、行业标准的医用口罩、护目镜等医用器材，或者销售明知是不符合标准的医用器材，足以严重危害人体健康的，以生产、销售不符合标准的医用器材罪定罪处罚，最高可判处无期徒刑，并处没收个人全部财产。
-</div>
-                <div class="source">来源：人民日报</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">重庆市新增确诊病例4例，累计339例,新增治愈出院病例20例</div>
-                <div class="desc">2020年2月16日12—24时，重庆市报告新冠肺炎新增确诊病例4例，新增治愈出院病例20例。截至2月16日24时，重庆市现有在院确诊病例339例（其中重型病例37例、危重型病例13例），累计死亡病例5例，累计治愈出院病例207例，累计报告确诊病例551例。
-            
-        </div>
-                <div class="source">来源：重庆卫健委</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">1小时前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">重庆又有20例确诊患者治愈出院，目前共有207例出院 </div>
-                <div class="desc">重庆又有20例确诊患者治愈出院。其中，渝中区5例、大渡口区1例、沙坪坝区1例、九龙坡区1例、南岸区1例、渝北区2例、綦江区1例、大足区1例、璧山区1例、铜梁区1例、荣昌区3例、开州区1例、垫江县1例。目前，全市共有207名新冠肺炎患者治愈出院。
-            
-        </div>
-                <div class="source">来源：重庆卫健委</div>
-            </div>
-        </div>
-                <div class="singleNew">
-            <div class="timeIcon"></div>
-            <div class="times"><span class="pass">1天前</span><div class="newest"></div></div>
-            <div class="news-box"><div class="title">山东省新增确诊4例</div>
-                <div class="desc">2020年2月16日0时至24时山东省新增新型冠状病毒肺炎病例4例：烟台市1例，潍坊市1例，济宁市1例，滨州市1例。
-         
-            
-              
-   
-        
-            
-            
-            
-				
-					
-						 
-
-						
-					
-			
-          </div>
-                <div class="source">来源：山东卫健委</div>
+                <div class="source">来源：甘肃卫健委</div>
             </div>
         </div>
             </div>
@@ -3680,7 +3591,7 @@
 </script>
 <script type="application/javascript">
 
-var mydata = [{"name":"\u6e56\u5317","value":58182},{"name":"\u5e7f\u4e1c","value":1316},{"name":"\u6cb3\u5357","value":1246},{"name":"\u6d59\u6c5f","value":1167},{"name":"\u5b89\u5fbd","value":962},{"name":"\u6c5f\u897f","value":925},{"name":"\u6e56\u5357","value":1004},{"name":"\u6c5f\u82cf","value":617},{"name":"\u9ed1\u9f99\u6c5f","value":457},{"name":"\u5c71\u4e1c","value":541},{"name":"\u56db\u5ddd","value":495},{"name":"\u91cd\u5e86","value":551},{"name":"\u5317\u4eac","value":380},{"name":"\u798f\u5efa","value":290},{"name":"\u4e0a\u6d77","value":331},{"name":"\u6cb3\u5317","value":301},{"name":"\u5e7f\u897f","value":238},{"name":"\u9655\u897f","value":236},{"name":"\u4e91\u5357","value":171},{"name":"\u6d77\u5357","value":162},{"name":"\u8d35\u5dde","value":144},{"name":"\u8fbd\u5b81","value":121},{"name":"\u5c71\u897f","value":129},{"name":"\u5929\u6d25","value":124},{"name":"\u5185\u8499\u53e4","value":70},{"name":"\u5409\u6797","value":89},{"name":"\u65b0\u7586","value":71},{"name":"\u9999\u6e2f","value":57},{"name":"\u5b81\u590f","value":70},{"name":"\u7518\u8083","value":90},{"name":"\u53f0\u6e7e","value":20},{"name":"\u6fb3\u95e8","value":10},{"name":"\u9752\u6d77","value":18},{"name":"\u897f\u85cf","value":1}];
+var mydata = [{"name":"\u6e56\u5317","value":59989},{"name":"\u5e7f\u4e1c","value":1328},{"name":"\u6cb3\u5357","value":1257},{"name":"\u5b89\u5fbd","value":982},{"name":"\u6d59\u6c5f","value":1172},{"name":"\u6c5f\u897f","value":933},{"name":"\u6e56\u5357","value":1007},{"name":"\u9ed1\u9f99\u6c5f","value":464},{"name":"\u6c5f\u82cf","value":629},{"name":"\u5c71\u4e1c","value":543},{"name":"\u56db\u5ddd","value":508},{"name":"\u91cd\u5e86","value":553},{"name":"\u5317\u4eac","value":387},{"name":"\u798f\u5efa","value":292},{"name":"\u5e7f\u897f","value":242},{"name":"\u6cb3\u5317","value":302},{"name":"\u4e0a\u6d77","value":333},{"name":"\u9655\u897f","value":240},{"name":"\u4e91\u5357","value":172},{"name":"\u6d77\u5357","value":163},{"name":"\u8d35\u5dde","value":146},{"name":"\u8fbd\u5b81","value":121},{"name":"\u5c71\u897f","value":130},{"name":"\u5929\u6d25","value":125},{"name":"\u5185\u8499\u53e4","value":73},{"name":"\u65b0\u7586","value":76},{"name":"\u9999\u6e2f","value":60},{"name":"\u5409\u6797","value":89},{"name":"\u5b81\u590f","value":70},{"name":"\u7518\u8083","value":91},{"name":"\u53f0\u6e7e","value":22},{"name":"\u6fb3\u95e8","value":10},{"name":"\u9752\u6d77","value":18},{"name":"\u897f\u85cf","value":1}];
 var optionMap = {  
                 backgroundColor: '#FFFFFF',  
                 title: {  
@@ -3844,7 +3755,7 @@ var optionMap = {
             {
                 type: 'category',
                 axisTick: {show: false},
-                data: ["\u6e56\u5317","\u5e7f\u4e1c","\u6cb3\u5357","\u6d59\u6c5f","\u5b89\u5fbd"],
+                data: ["\u6e56\u5317","\u5e7f\u4e1c","\u6cb3\u5357","\u5b89\u5fbd","\u6d59\u6c5f"],
             }
         ],
         yAxis: [
@@ -3858,18 +3769,18 @@ var optionMap = {
                 type: 'bar',
                 barGap: 0,
                 label: labelOption,
-                data: [58182,1316,1246,1167,962],
+                data: [59989,1328,1257,982,1172],
             },
             {
                 name: '治愈',
                 type: 'bar',
                 label: labelOption,
-                data: [6639,465,440,456,255]            },
+                data: [7862,533,513,293,514]            },
             {
                 name: '死亡',
                 type: 'bar',
                 label: labelOption,
-                data: [1696,2,16,0,6]            }
+                data: [1789,4,19,6,0]            }
         ]
     };;
     if (option && typeof option === "object") {
