@@ -20,10 +20,6 @@ url = 'https://www.sinovision.net/newpneumonia.php'  # 好获取文本
 # html = requests.get(url=url, headers=headers).content.decode('utf-8')
 html = urllib.request.urlopen(url=url).read().decode('utf-8')  # 两种方式均可
 
-
-# print(html)
-# time.sleep(20)
-
 # 用xpath 获取所有全国汇总数据
 tree = etree.HTML(html)
 contryNums = tree.xpath("//div[@class='number']/text()")
@@ -33,17 +29,23 @@ contryCure = contryNums[2]
 contryDead = contryNums[3]
 
 # 1、创建数据库连接
-db = pymysql.connect("127.0.0.1", "root", "123456", "spms")
+# db = pymysql.connect("127.0.0.1", "root", "123456", "spms")  # 本地库
+db = pymysql.connect("117.78.41.97", "root", "CloudBU@1532_20190802!", "spms")    # 深圳智慧园区测试库
+
+# 获取当前日期
+businessDate = datetime.strftime(datetime.now(), "%Y-%m-%d")  # 获取当前日期
+# businessDate = "2020-02-18" #测试用
+
 
 # 使用 cursor() 方法创建一个游标对象 cursor
 cursor = db.cursor()
 
 # 2、删除旧信息表
-sqlDroptableinfo = 'DROP TABLE IF EXISTS epidemic_situation_info;'
-cursor.execute(sqlDroptableinfo)
-db.commit()
+# sqlDroptableinfo = 'DROP TABLE IF EXISTS epidemic_situation_info;'
+# cursor.execute(sqlDroptableinfo)
+# db.commit()
 
-# 3、创建新信息表
+'''# 3、创建新信息表
 sqlCreatetableinfo = "create table `epidemic_situation_info` " \
                      "(`id` varchar(20) not null,`area_id` varchar(50) comment '地区ID'," \
                      "`area_name` varchar(50) comment '地区名称', `pid` varchar(50) default '0' comment " \
@@ -54,14 +56,24 @@ sqlCreatetableinfo = "create table `epidemic_situation_info` " \
                      "`create_time` datetime default Now() comment '创建时间', " \
                      "  primary key (`id`)) engine=innodb default charset=utf8 comment='疫情详情表';"
 cursor.execute(sqlCreatetableinfo)
-db.commit()
+db.commit()'''
 
-# 4、删除旧全国汇总表
+# 清理当天重复数据
+sqlIfExistTodayInfo = 'delete from  epidemic_situation_info where business_date = "%s"'%(businessDate)
+sqlIfExistTodaySum ='delete from epidemic_situation_summary where business_date = "%s"'%(businessDate)
+cursor.execute(sqlIfExistTodayInfo)
+cursor.execute(sqlIfExistTodaySum)
+db.commit()
+print('cleared')
+
+# time.sleep(60)
+
+'''# 4、删除旧全国汇总表
 sqlDroptableSum = 'DROP TABLE IF EXISTS epidemic_situation_summary;'
 cursor.execute(sqlDroptableSum)
-db.commit()
+db.commit()'''
 
-# 5、创建新全国汇总表
+'''# 5、创建新全国汇总表
 sqlCreatetableiSum = "CREATE TABLE `epidemic_situation_summary` (" \
                      "`id` VARCHAR(20) NOT NULL," \
                      "`confirmed_case` INT(8) COMMENT '确诊病例'," \
@@ -73,19 +85,61 @@ sqlCreatetableiSum = "CREATE TABLE `epidemic_situation_summary` (" \
                      " PRIMARY KEY (`id`)" \
                      ") ENGINE=INNODB DEFAULT CHARSET=utf8 COMMENT='疫情汇总表';"
 cursor.execute(sqlCreatetableiSum)
-db.commit()
+db.commit()'''
+
+
+# 获取当前汇总表和信息表记录数量
+cursor.execute("SELECT COUNT(*) FROM epidemic_situation_summary;")
+result =cursor.fetchone()
+
+print(result[0])
+currentSumCount = result[0]
+
+
+cursor.execute("SELECT COUNT(*) FROM epidemic_situation_info;")
+result =cursor.fetchone()
+print(result[0])
+currenInfoCount = result[0]
+
+
+
+
+
+# if len(currenInfoCount) < 10:
+#     areaId = (10 - len(currenInfoCount)) * "0" + str(currenInfoCount)
+# elif len(currenInfoCount) == 10:
+#     areaId = str(currenInfoCount)
+# else:
+#     pass
+
+# time.sleep(60)
+
 
 # 6、向汇总表插入数据
-businessDate = datetime.strftime(datetime.now(), "%Y-%m-%d")  # 获取当前日期
+# businessDate = datetime.strftime(datetime.now(), "%Y-%m-%d")  # 获取当前日期
+
+currentSumCount += 1
+currentSumCount = str(currentSumCount)
+# 确保id 位，不足前面补0
+if len(currentSumCount) < 10:
+    currentSumCount = (10 - len(currentSumCount)) * "0" + str(currentSumCount)
+elif len(currentSumCount) == 10:
+    currentSumCount = str(currentSumCount)
+else:
+    pass
 
 sqlCountry = "INSERT INTO epidemic_situation_summary" \
-             " (id, confirmed_case, suspected_case, healed_case, dead_case, business_date)VALUES('1', '%s','%s','%s','%s','%s');" \
-             % (contryConfirm, contrySuspect, contryCure, contryDead, businessDate)
+             " (id, confirmed_case, suspected_case, healed_case, dead_case, business_date)VALUES('%s', '%s','%s','%s','%s','%s');" \
+             % (currentSumCount, contryConfirm, contrySuspect,contryCure, contryDead, businessDate)
 try:
     cursor.execute(sqlCountry)
 except:
     print("sql 语句异常")
 db.commit()
+
+print('summary done!')
+
+
 
 # 把html源码写入文件
 with open("conData.txt", 'w', encoding="utf-8") as f:
@@ -103,8 +157,10 @@ fieldArea = ''  # 省市字段
 fieldConfirm = ''  # 确诊字段
 fieldCured = ''  # 治愈字段
 fieldDead = ''  # 死亡字段
-i = 1  # ID 起始为 “1”
+i = 1  # 省市ID 起始为 “1”
 pid = 0  # 默认 PID 为 “0”
+currenInfoCount += 1
+
 
 # 打开文件逐行读取分析数据
 with open("conData.txt", 'r', encoding='utf-8') as content:
@@ -124,17 +180,17 @@ with open("conData.txt", 'r', encoding='utf-8') as content:
                 fieldArea = pro
                 area = 'province'
 
-                id = str(i)
+                areaId = str(i)
 
                 # 确保id 有三位，不足3位前面补0
-                if len(id) < 3:
-                    id = (3 - len(id)) * "0" + str(i)
-                elif len(id) == 3:
-                    id = str(i)
+                if len(areaId) < 3:
+                    areaId = (3 - len(areaId)) * "0" + str(i)
+                elif len(areaId) == 3:
+                    areaId = str(i)
                 else:
                     pass
 
-                pid = id  # 匹配到下个省之前，后面匹配到的城市的 PID 为此省 ID
+                pid = areaId  # 匹配到下个省之前，后面匹配到的城市的 PID 为此省 ID
 
         # 匹配到城市
         elif ptCity.findall(line) != []:
@@ -142,13 +198,13 @@ with open("conData.txt", 'r', encoding='utf-8') as content:
             print(ptCity.findall(line)[0])
             fieldArea = ptCity.findall(line)[0]
             area = 'city'
-            id = str(i)
+            areaId = str(i)
 
             # 确保id 有三位，不足3位前面补0
-            if len(id) < 3:
-                id = (3 - len(id)) * "0" + str(i)
-            elif len(id) == 3:
-                id = str(i)
+            if len(areaId) < 3:
+                areaId = (3 - len(areaId)) * "0" + str(i)
+            elif len(areaId) == 3:
+                areaId = str(i)
             else:
                 pass
 
@@ -192,22 +248,39 @@ with open("conData.txt", 'r', encoding='utf-8') as content:
 
             # 全省数据入库
             if area == 'province':  # area 标记为 province
+                currenInfoCount = str(currenInfoCount)
+                if len(currenInfoCount) < 10:
+                    currenInfoCount = (10 - len(currenInfoCount)) * "0" + str(currenInfoCount)
+                elif len(currenInfoCount) == 10:
+                    currenInfoCount = str(currenInfoCount)
+                else:
+                    pass
 
                 sqlpro  = "INSERT INTO epidemic_situation_info" \
                                   " (id, area_id,area_name, confirmed_case, healed_case,dead_case,business_date)VALUES('%s', '%s', '%s',%s,%s,%s,'%s');" \
-                                  % (id, id, fieldArea, fieldConfirm, fieldCured, fieldDead, businessDate)
+                                  % (currenInfoCount, areaId, fieldArea, fieldConfirm, fieldCured, fieldDead, businessDate)
 
                 cursor.execute(sqlpro)
+                currenInfoCount = int(currenInfoCount)
 
-            # 城市数据入库
-            else:         # area 标记为 city
+            # 城市数据入库 ,area 标记为 city
+            else:
+                currenInfoCount = str(currenInfoCount)
+                if len(currenInfoCount) < 10:
+                    currenInfoCount = (10 - len(currenInfoCount)) * "0" + str(currenInfoCount)
+                elif len(currenInfoCount) == 10:
+                    currenInfoCount = str(currenInfoCount)
+                else:
+                    pass
 
                 sqlCity = "INSERT INTO epidemic_situation_info" \
                           " (id, area_id,area_name,pid, confirmed_case, healed_case,dead_case,business_date) VALUES('%s', '%s', '%s','%s',%s,%s,%s,'%s');" \
-                          % (id, id, fieldArea, pid, fieldConfirm, fieldCured, fieldDead, businessDate)
+                          % (currenInfoCount, areaId, fieldArea, pid, fieldConfirm, fieldCured, fieldDead, businessDate)
 
                 cursor.execute(sqlCity)
+                currenInfoCount = int(currenInfoCount)
             i += 1  # ID 序号自增
+            currenInfoCount += 1
 
 # 异常捕获
 try:
