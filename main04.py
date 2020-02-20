@@ -64,7 +64,7 @@ sqlIfExistTodaySum ='delete from epidemic_situation_summary where business_date 
 cursor.execute(sqlIfExistTodayInfo)
 cursor.execute(sqlIfExistTodaySum)
 db.commit()
-print('cleared')
+
 
 # time.sleep(60)
 
@@ -92,7 +92,7 @@ db.commit()'''
 cursor.execute("SELECT COUNT(*) FROM epidemic_situation_summary;")
 result =cursor.fetchone()
 
-print(result[0])
+# print(result[0])
 currentSumCount = result[0]
 
 
