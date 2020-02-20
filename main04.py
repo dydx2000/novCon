@@ -28,6 +28,8 @@ contrySuspect = contryNums[1]
 contryCure = contryNums[2]
 contryDead = contryNums[3]
 
+# "hahaha"
+
 # 1、创建数据库连接
 # db = pymysql.connect("127.0.0.1", "root", "123456", "spms")  # 本地库
 db = pymysql.connect("117.78.41.97", "root", "CloudBU@1532_20190802!", "spms")    # 深圳智慧园区测试库
